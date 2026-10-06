@@ -1,0 +1,129 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Convocatorias Andalucía · Panel de empleo público local</title>
+<meta name="description" content="Histórico diario de anuncios de empleo público local en las 8 provincias de Andalucía.">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='7' fill='%23c2552f'/%3E%3Cpath d='M8 23V11l8-4 8 4v12' fill='none' stroke='%23fbf6ee' stroke-width='2.4'/%3E%3Cpath d='M12 23v-6h8v6' fill='none' stroke='%23fbf6ee' stroke-width='2.4'/%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=DM+Sans:opsz,wght@9..40,400;9..40,500;9..40,600;9..40,700&family=Fraunces:opsz,wght@9..144,600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<div class="app">
+  <aside class="sidebar" id="sidebar" aria-label="Filtros">
+    <div class="brand">
+      <svg class="logo" viewBox="0 0 40 40" width="36" height="36" aria-label="Convocatorias Andalucía" role="img">
+        <rect width="40" height="40" rx="9" fill="var(--accent)"/>
+        <path d="M10 29V14l10-5 10 5v15" fill="none" stroke="var(--on-accent)" stroke-width="2.8" stroke-linejoin="round"/>
+        <path d="M15 29v-8h10v8" fill="none" stroke="var(--on-accent)" stroke-width="2.8" stroke-linejoin="round"/>
+        <circle cx="20" cy="15.5" r="1.9" fill="var(--on-accent)"/>
+      </svg>
+      <div>
+        <div class="brand-name">Convocatorias Andalucía</div>
+        <div class="brand-sub">Empleo público local</div>
+      </div>
+      <button class="icon-btn theme-toggle" id="themeToggle" aria-label="Cambiar tema">
+        <svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 12.8A9 9 0 1 1 11.2 3a7 7 0 0 0 9.8 9.8z"/></svg>
+      </button>
+    </div>
+
+    <div class="filter-block">
+      <div class="filter-label">Provincia</div>
+      <div class="prov-list" id="provList" role="group" aria-label="Provincia"></div>
+    </div>
+
+    <div class="filter-block">
+      <label class="filter-label" for="q">Buscar</label>
+      <div class="search">
+        <svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
+        <input id="q" type="search" placeholder="Entidad, plaza, referencia…" autocomplete="off">
+      </div>
+    </div>
+
+    <div class="filter-grid">
+      <div class="filter-block">
+        <label class="filter-label" for="fTipo">Tipo de anuncio</label>
+        <select id="fTipo"></select>
+      </div>
+      <div class="filter-block">
+        <label class="filter-label" for="fCat">Categoría</label>
+        <select id="fCat"></select>
+      </div>
+      <div class="filter-block">
+        <label class="filter-label" for="fGrupo">Grupo</label>
+        <select id="fGrupo"></select>
+      </div>
+      <div class="filter-block">
+        <label class="filter-label" for="fBol">Boletín</label>
+        <select id="fBol"></select>
+      </div>
+      <div class="filter-block">
+        <label class="filter-label" for="fDesde">Desde</label>
+        <input id="fDesde" type="date">
+      </div>
+      <div class="filter-block">
+        <label class="filter-label" for="fHasta">Hasta</label>
+        <input id="fHasta" type="date">
+      </div>
+    </div>
+
+    <label class="switch">
+      <input type="checkbox" id="fAbierto">
+      <span class="track"><span class="thumb"></span></span>
+      <span>Solo con plazo abierto</span>
+    </label>
+
+    <div class="side-actions">
+      <button class="btn ghost" id="reset">Limpiar filtros</button>
+      <button class="btn" id="csv">
+        <svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 3v12m0 0-4-4m4 4 4-4M5 21h14"/></svg>
+        Exportar CSV
+      </button>
+    </div>
+  </aside>
+
+  <main class="main" id="main">
+    <header class="topbar">
+      <div>
+        <h1>Anuncios publicados</h1>
+        <p class="muted" id="updated">Cargando…</p>
+      </div>
+      <button class="btn ghost mobile-filters" id="toggleFilters" aria-controls="sidebar" aria-expanded="false">Filtros</button>
+    </header>
+
+    <section class="kpis" aria-label="Resumen">
+      <div class="kpi"><div class="kpi-label">Anuncios</div><div class="kpi-value" id="kAnuncios">–</div></div>
+      <div class="kpi"><div class="kpi-label">Plazas</div><div class="kpi-value" id="kPlazas">–</div></div>
+      <div class="kpi"><div class="kpi-label">Plazo abierto</div><div class="kpi-value accent" id="kAbiertos">–</div></div>
+      <div class="kpi"><div class="kpi-label">Cierran en 5 días</div><div class="kpi-value warn" id="kCierran">–</div></div>
+    </section>
+
+    <section class="prov-bars" aria-label="Anuncios por provincia" id="provBars"></section>
+
+    <div class="results-head">
+      <div class="muted" id="count"></div>
+      <div class="sort">
+        <label for="sort" class="muted">Ordenar</label>
+        <select id="sort">
+          <option value="fecha">Más recientes</option>
+          <option value="plazo">Fin de plazo más próximo</option>
+          <option value="plazas">Más plazas</option>
+        </select>
+      </div>
+    </div>
+
+    <section id="results" class="results" aria-live="polite"></section>
+
+    <section class="runs">
+      <h2>Registro de revisiones</h2>
+      <ul id="runs"></ul>
+      <p class="note">Fin de plazo estimado: días hábiles contados desde el día siguiente a la publicación en el BOE, sin descontar festivos. Comprueba siempre las bases.</p>
+    </section>
+  </main>
+</div>
+<script src="app.js"></script>
+</body>
+</html>

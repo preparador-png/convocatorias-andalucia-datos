@@ -1,0 +1,2453 @@
+{
+ "actualizado": "2026-10-06T21:58",
+ "anuncios": [
+  {
+   "id": "BOP-SE-2026-194035",
+   "fecha": "2026-10-06",
+   "provincia": "Sevilla",
+   "entidad": "Mancomunidad de Servicios La Vega",
+   "tipo": "Bases y convocatoria",
+   "boletin": "BOP Sevilla",
+   "referencia": "BOP nº 194 · BOP-SE-2026-194035",
+   "enlace": "https://bopsevilla.dipusevilla.es/publica/buscador-anuncios/anuncio/Bases-de-la-convocatoria-para-la-provision-por-promocion-interna-de-una-plaza-de-Conductor-Mantenimiento-de-los-servicios-de-recogida-de-residuos-vacante-en-la-plantilla-de-personal-laboral-OEP-20/",
+   "plazas": [
+    {
+     "denominacion": "Conductor-Mantenimiento (recogida de residuos)",
+     "numero": 1,
+     "grupo": "Laboral",
+     "sistema": "—",
+     "turno": "promoción interna",
+     "vinculo": "Laboral fijo",
+     "categoria": "Oficios y servicios"
+    }
+   ],
+   "plazo": null,
+   "resumen": "Bases de la convocatoria (OEP 2025)",
+   "referencias": []
+  },
+  {
+   "id": "BOP-SE-2026-194001",
+   "fecha": "2026-10-06",
+   "provincia": "Sevilla",
+   "entidad": "Diputación Provincial de Sevilla",
+   "tipo": "Bases y convocatoria",
+   "boletin": "BOP Sevilla",
+   "referencia": "BOP nº 194 · BOP-SE-2026-194001",
+   "enlace": "https://bopsevilla.dipusevilla.es/publica/buscador-anuncios/anuncio/Bases-y-convocatoria-para-la-provision-por-libre-designacion-del-puesto-de-Auxiliar-Administrativo-del-Servicio-de-Protocolo-adscrito-al-Area-de-Presidencia/",
+   "plazas": [
+    {
+     "denominacion": "Auxiliar Administrativo del Servicio de Protocolo (puesto)",
+     "numero": 1,
+     "grupo": "—",
+     "sistema": "libre designación",
+     "turno": "—",
+     "vinculo": "Funcionario (provisión de puestos)",
+     "categoria": "Provisión de puestos"
+    }
+   ],
+   "plazo": null,
+   "resumen": "Bases y convocatoria para la provisión por libre designación",
+   "referencias": []
+  },
+  {
+   "id": "BOP-SE-2026-194002",
+   "fecha": "2026-10-06",
+   "provincia": "Sevilla",
+   "entidad": "Diputación Provincial de Sevilla",
+   "tipo": "Tribunal",
+   "boletin": "BOP Sevilla",
+   "referencia": "BOP nº 194 · BOP-SE-2026-194002",
+   "enlace": "https://bopsevilla.dipusevilla.es/publica/buscador-anuncios/anuncio/Resolucion-de-la-recusacion-de-los-miembros-del-tribunal-que-se-citan-de-la-convocatoria-para-la-provision-en-turno-libre-de-dos-plazas-de-Ingeniero-Tecnico-de-Obras-Publicas-vacantes-en-la-plantil/",
+   "plazas": [
+    {
+     "denominacion": "Ingeniero/a Técnico/a de Obras Públicas",
+     "numero": 2,
+     "grupo": "A2",
+     "sistema": "—",
+     "turno": "libre",
+     "vinculo": "Funcionario",
+     "categoria": "Técnicos"
+    }
+   ],
+   "plazo": null,
+   "resumen": "Resolución de recusación de miembros del tribunal y denegación de suspensión del proceso (OEP 2024)",
+   "referencias": []
+  },
+  {
+   "id": "BOJA-2026-194-57",
+   "fecha": "2026-10-06",
+   "provincia": "Sevilla",
+   "entidad": "Ayuntamiento de Valencina de la Concepción",
+   "tipo": "Bases y convocatoria",
+   "boletin": "BOJA",
+   "referencia": "BOJA nº 194 · PP. 1813/2026",
+   "enlace": "https://www.juntadeandalucia.es/boja/2026/194/57",
+   "plazas": [
+    {
+     "denominacion": "Administrativo",
+     "numero": 2,
+     "grupo": "C1",
+     "sistema": "concurso-oposición",
+     "turno": "promoción interna",
+     "vinculo": "Funcionario",
+     "categoria": "Administración general"
+    }
+   ],
+   "plazo": null,
+   "resumen": "Proceso selectivo de dos plazas de Administrativo por promoción interna",
+   "referencias": []
+  },
+  {
+   "id": "BOP-SE-2026-194022",
+   "fecha": "2026-10-06",
+   "provincia": "Sevilla",
+   "entidad": "Ayuntamiento de Sevilla",
+   "tipo": "Fecha de examen",
+   "boletin": "BOP Sevilla",
+   "referencia": "BOP nº 194 · BOP-SE-2026-194022",
+   "enlace": "https://bopsevilla.dipusevilla.es/publica/buscador-anuncios/anuncio/Fecha-de-comienzo-de-las-pruebas-de-la-convocatoria-para-la-provision-en-turno-libre-de-una-plaza-de-Ingeniero-Industrial-vacante-en-la-plantilla-de-personal-funcionario-OEP-2021/",
+   "plazas": [
+    {
+     "denominacion": "Ingeniero/a Industrial",
+     "numero": 1,
+     "grupo": "A1",
+     "sistema": "—",
+     "turno": "libre",
+     "vinculo": "Funcionario",
+     "categoria": "Técnicos"
+    }
+   ],
+   "plazo": null,
+   "resumen": "Fecha de comienzo de las pruebas (OEP 2021)",
+   "referencias": []
+  },
+  {
+   "id": "BOP-SE-2026-194018",
+   "fecha": "2026-10-06",
+   "provincia": "Sevilla",
+   "entidad": "Ayuntamiento de Los Palacios y Villafranca",
+   "tipo": "Lista definitiva de admitidos",
+   "boletin": "BOP Sevilla",
+   "referencia": "BOP nº 194 · BOP-SE-2026-194018",
+   "enlace": "https://bopsevilla.dipusevilla.es/publica/buscador-anuncios/anuncio/Lista-definitiva-de-personas-admitidas-y-excluidas-y-composicion-del-tribunal-de-la-convocatoria-para-la-provision-en-turno-libre-de-una-plaza-de-Arquitecto-Tecnico-vacante-en-la-plantilla-de-perso/",
+   "plazas": [
+    {
+     "denominacion": "Arquitecto/a Técnico/a",
+     "numero": 1,
+     "grupo": "A2",
+     "sistema": "—",
+     "turno": "libre",
+     "vinculo": "Funcionario",
+     "categoria": "Técnicos"
+    }
+   ],
+   "plazo": null,
+   "resumen": "Lista definitiva de admitidos y excluidos y composición del tribunal (OEP 2023)",
+   "referencias": []
+  },
+  {
+   "id": "BOP-SE-2026-194011",
+   "fecha": "2026-10-06",
+   "provincia": "Sevilla",
+   "entidad": "Ayuntamiento de Gines",
+   "tipo": "Bolsa de empleo",
+   "boletin": "BOP Sevilla",
+   "referencia": "BOP nº 194 · BOP-SE-2026-194011",
+   "enlace": "https://bopsevilla.dipusevilla.es/publica/buscador-anuncios/anuncio/Composicion-de-la-bolsa-de-trabajo-para-el-nombramiento-como-funcionario-interino-en-la-categoria-de-Tecnico-de-Administracion-General/",
+   "plazas": [
+    {
+     "denominacion": "Técnico/a de Administración General",
+     "numero": null,
+     "grupo": "A1",
+     "sistema": "—",
+     "turno": "—",
+     "vinculo": "Interino",
+     "categoria": "Administración general"
+    }
+   ],
+   "plazo": null,
+   "resumen": "Composición de la bolsa de trabajo para nombramiento como funcionario interino",
+   "referencias": []
+  },
+  {
+   "id": "BOP-SE-2026-194007",
+   "fecha": "2026-10-06",
+   "provincia": "Sevilla",
+   "entidad": "Ayuntamiento de Arahal",
+   "tipo": "Nombramiento",
+   "boletin": "BOP Sevilla",
+   "referencia": "BOP nº 194 · BOP-SE-2026-194007",
+   "enlace": "https://bopsevilla.dipusevilla.es/publica/buscador-anuncios/anuncio/Nombramiento-de-funcionaria-interina-en-una-plaza-de-Auxiliar-Administrativo-del-Area-de-Contratacion-00001/",
+   "plazas": [
+    {
+     "denominacion": "Auxiliar Administrativo (Área de Contratación)",
+     "numero": 1,
+     "grupo": "C2",
+     "sistema": "—",
+     "turno": "—",
+     "vinculo": "Interino",
+     "categoria": "Administración general"
+    }
+   ],
+   "plazo": null,
+   "resumen": "Nombramiento de funcionaria interina",
+   "referencias": []
+  },
+  {
+   "id": "BOP-SE-2026-194003",
+   "fecha": "2026-10-06",
+   "provincia": "Sevilla",
+   "entidad": "Ayuntamiento de Alcalá de Guadaíra",
+   "tipo": "Bases y convocatoria",
+   "boletin": "BOP Sevilla",
+   "referencia": "BOP nº 194 · BOP-SE-2026-194003",
+   "enlace": "https://bopsevilla.dipusevilla.es/publica/buscador-anuncios/anuncio/Bases-de-la-convocatoria-para-la-provision-del-puesto-de-trabajo-de-la-Unidad-de-Dinamizacion-Social-y-Comunitaria/",
+   "plazas": [
+    {
+     "denominacion": "Puesto de la Unidad de Dinamización Social y Comunitaria",
+     "numero": 1,
+     "grupo": "—",
+     "sistema": "—",
+     "turno": "—",
+     "vinculo": "Funcionario (provisión de puestos)",
+     "categoria": "Provisión de puestos"
+    }
+   ],
+   "plazo": null,
+   "resumen": "Bases de la convocatoria para la provisión del puesto",
+   "referencias": []
+  },
+  {
+   "id": "BOE-A-2026-20779",
+   "fecha": "2026-10-06",
+   "provincia": "Málaga",
+   "entidad": "Ayuntamiento de Teba",
+   "tipo": "Apertura de plazo (BOE)",
+   "boletin": "BOE",
+   "referencia": "BOE-A-2026-20779",
+   "enlace": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-20779",
+   "plazas": [
+    {
+     "denominacion": "Jardinero/a",
+     "numero": 1,
+     "escala": "",
+     "vinculo": "Laboral fijo",
+     "sistema": "oposición",
+     "turno": "libre",
+     "grupo": "Laboral",
+     "categoria": "Otros"
+    }
+   ],
+   "plazo": {
+    "dias": 20,
+    "tipo": "hábiles",
+    "fin_estimado": "2026-11-03"
+   },
+   "referencias": [
+    {
+     "boletin": "BOP Málaga",
+     "numero": "77",
+     "fecha": "23 de abril de 2026"
+    },
+    {
+     "boletin": "BOP Málaga",
+     "numero": "91",
+     "fecha": "14 de mayo de 2026"
+    }
+   ],
+   "resumen": "1 Jardinero/a (oposición, libre)",
+   "titulo": "Resolución de 1 de octubre de 2026, del Ayuntamiento de Teba (Málaga), referente a la convocatoria para proveer una plaza."
+  },
+  {
+   "id": "BOP-MA-2026-3733",
+   "fecha": "2026-10-06",
+   "provincia": "Málaga",
+   "entidad": "Ayuntamiento de Málaga",
+   "tipo": "Sorteo de orden de actuación",
+   "boletin": "BOP Málaga",
+   "referencia": "Edicto 3733/2026",
+   "enlace": "https://www.bopmalaga.es/edicto.php?edicto=20261006-03733-2026-01",
+   "plazas": [],
+   "plazo": null,
+   "resumen": "Sorteo de la letra que determinará el orden de actuación de los aspirantes en las convocatorias de la OEP 2025",
+   "referencias": []
+  },
+  {
+   "id": "BOP-MA-2026-3737",
+   "fecha": "2026-10-06",
+   "provincia": "Málaga",
+   "entidad": "Ayuntamiento de Mijas",
+   "tipo": "Provisión de puestos – ampliación de plazo",
+   "boletin": "BOP Málaga",
+   "referencia": "Edicto 3737/2026",
+   "enlace": "https://www.bopmalaga.es/edicto.php?edicto=20261006-03737-2026-01",
+   "plazas": [
+    {
+     "denominacion": "Director/a de Recursos Humanos (puesto)",
+     "numero": 1,
+     "grupo": "—",
+     "sistema": "—",
+     "turno": "—",
+     "vinculo": "Funcionario",
+     "categoria": "Provisión de puestos"
+    }
+   ],
+   "plazo": null,
+   "resumen": "Ampliación del plazo de resolución de la convocatoria del puesto",
+   "referencias": []
+  },
+  {
+   "id": "BOP-MA-2026-3547",
+   "fecha": "2026-10-06",
+   "provincia": "Málaga",
+   "entidad": "Ayuntamiento de Estepona",
+   "tipo": "Bases y convocatoria",
+   "boletin": "BOP Málaga",
+   "referencia": "Edicto 3547/2026",
+   "enlace": "https://www.bopmalaga.es/edicto.php?edicto=20261006-03547-2026-00",
+   "plazas": [
+    {
+     "denominacion": "Monitor/a de Ajedrez",
+     "numero": 1,
+     "grupo": "—",
+     "sistema": "concurso-oposición",
+     "turno": "—",
+     "vinculo": "Funcionario",
+     "categoria": "Servicios sociales y educación"
+    }
+   ],
+   "plazo": null,
+   "resumen": "Bases de la convocatoria, funcionario de carrera por concurso-oposición",
+   "referencias": []
+  },
+  {
+   "id": "BOJA-2026-194-59",
+   "fecha": "2026-10-06",
+   "provincia": "Málaga",
+   "entidad": "Ayuntamiento de Casares",
+   "tipo": "Bases y convocatoria",
+   "boletin": "BOJA",
+   "referencia": "BOJA nº 194 · PP. 1802/2026",
+   "enlace": "https://www.juntadeandalucia.es/boja/2026/194/59",
+   "plazas": [
+    {
+     "denominacion": "Administrativo",
+     "numero": 4,
+     "grupo": "C1",
+     "sistema": "concurso-oposición",
+     "turno": "promoción interna",
+     "vinculo": "Funcionario",
+     "categoria": "Administración general"
+    }
+   ],
+   "plazo": null,
+   "resumen": "Convocatoria y bases de cuatro plazas de administrativo por promoción interna",
+   "referencias": []
+  },
+  {
+   "id": "BOJA-2026-194-58",
+   "fecha": "2026-10-06",
+   "provincia": "Málaga",
+   "entidad": "Ayuntamiento de Antequera",
+   "tipo": "Bases y convocatoria",
+   "boletin": "BOJA",
+   "referencia": "BOJA nº 194 · PP. 1708/2026",
+   "enlace": "https://www.juntadeandalucia.es/boja/2026/194/58",
+   "plazas": [
+    {
+     "denominacion": "Arquitecto/a Superior",
+     "numero": 1,
+     "grupo": "A1",
+     "sistema": "—",
+     "turno": "—",
+     "vinculo": "Funcionario",
+     "categoria": "Técnicos"
+    }
+   ],
+   "plazo": null,
+   "resumen": "Bases y convocatoria para una plaza de Arquitecto/a Superior",
+   "referencias": []
+  },
+  {
+   "id": "BOJA-2026-194-61",
+   "fecha": "2026-10-06",
+   "provincia": "Jaén",
+   "entidad": "Ayuntamiento de Torredonjimeno",
+   "tipo": "Bases y convocatoria",
+   "boletin": "BOJA",
+   "referencia": "BOJA nº 194 · PP. 1777/2026",
+   "enlace": "https://www.juntadeandalucia.es/boja/2026/194/61",
+   "plazas": [
+    {
+     "denominacion": "Auxiliar Administrativo/a",
+     "numero": 1,
+     "grupo": "C2",
+     "sistema": "oposición",
+     "turno": "libre",
+     "vinculo": "Funcionario",
+     "categoria": "Administración general"
+    }
+   ],
+   "plazo": null,
+   "resumen": "Bases para una plaza de Auxiliar Administrativo/a (OEP 2024)",
+   "referencias": []
+  },
+  {
+   "id": "BOJA-2026-194-63",
+   "fecha": "2026-10-06",
+   "provincia": "Jaén",
+   "entidad": "Ayuntamiento de Martos",
+   "tipo": "Rectificación / anulación",
+   "boletin": "BOJA",
+   "referencia": "BOJA nº 194 · PP. 1800/2026",
+   "enlace": "https://www.juntadeandalucia.es/boja/2026/194/63",
+   "plazas": [
+    {
+     "denominacion": "Técnico/a de Actividades Culturales y Turismo",
+     "numero": 1,
+     "grupo": "A2",
+     "sistema": "concurso-oposición",
+     "turno": "libre",
+     "vinculo": "Laboral fijo",
+     "categoria": "Técnicos"
+    }
+   ],
+   "plazo": null,
+   "resumen": "Corrección de errores del extracto de las bases (BOJA núm. 168, de 31-08-2026)",
+   "referencias": []
+  },
+  {
+   "id": "BOJA-2026-194-62",
+   "fecha": "2026-10-06",
+   "provincia": "Huelva",
+   "entidad": "Ayuntamiento de Zalamea la Real",
+   "tipo": "OEP",
+   "boletin": "BOJA",
+   "referencia": "BOJA nº 194 · PP. 1893/2026",
+   "enlace": "https://www.juntadeandalucia.es/boja/2026/194/62",
+   "plazas": [],
+   "plazo": null,
+   "resumen": "Modificación de la Oferta de Empleo Público de 2026",
+   "referencias": []
+  },
+  {
+   "id": "BOP-GRA-2026-193003",
+   "fecha": "2026-10-06",
+   "provincia": "Granada",
+   "entidad": "Diputación Provincial de Granada",
+   "tipo": "Nombramiento",
+   "boletin": "BOP Granada",
+   "referencia": "BOP nº 193 · BOP-GRA-2026-193003",
+   "enlace": "https://bop.dipgra.es/publica/buscador-anuncios/anuncio/Resolucion-de-la-Delegacion-de-Turismo-Transparencia-Recursos-Humanos-y-Transformacion-Digital-por-la-que-se-nombra-personal-funcionario-a-de-carrera-en-el-proceso-selectivo-para-el-ingreso-libre/",
+   "plazas": [
+    {
+     "denominacion": "Técnico/a de Gestión",
+     "numero": null,
+     "grupo": "A2",
+     "sistema": "—",
+     "turno": "libre",
+     "vinculo": "Funcionario",
+     "categoria": "Administración general"
+    }
+   ],
+   "plazo": null,
+   "resumen": "Nombramiento de personal funcionario de carrera, subescala de Gestión (ingreso libre)",
+   "referencias": []
+  },
+  {
+   "id": "BOP-GRA-2026-193004",
+   "fecha": "2026-10-06",
+   "provincia": "Granada",
+   "entidad": "Diputación Provincial de Granada",
+   "tipo": "Fecha de examen",
+   "boletin": "BOP Granada",
+   "referencia": "BOP nº 193 · BOP-GRA-2026-193004",
+   "enlace": "https://bop.dipgra.es/publica/buscador-anuncios/anuncio/Expte-2025-PES_01-019792-Resolucion-de-la-Delegacion-de-Transparencia-Recursos-Humanos-y-Transformacion-Digital-por-la-que-se-anuncia-fecha-del-primer-ejercicio-del-proceso-selectivo-para-el-ingres/",
+   "plazas": [
+    {
+     "denominacion": "Auxiliar Técnico/a de Preimpresión",
+     "numero": null,
+     "grupo": "—",
+     "sistema": "—",
+     "turno": "libre",
+     "vinculo": "Funcionario",
+     "categoria": "Otros"
+    }
+   ],
+   "plazo": null,
+   "resumen": "Fecha del primer ejercicio",
+   "referencias": []
+  },
+  {
+   "id": "BOP-GRA-2026-193005",
+   "fecha": "2026-10-06",
+   "provincia": "Granada",
+   "entidad": "Diputación Provincial de Granada",
+   "tipo": "Nombramiento",
+   "boletin": "BOP Granada",
+   "referencia": "BOP nº 193 · BOP-GRA-2026-193005",
+   "enlace": "https://bop.dipgra.es/publica/buscador-anuncios/anuncio/Resolucion-de-la-Delegacion-de-Turismo-Transparencia-Recursos-Humanos-y-Transformacion-Digital-por-la-que-se-nombra-personal-funcionario-de-carrera-en-el-proceso-selectivo-para-el-ingreso-mediante/",
+   "plazas": [
+    {
+     "denominacion": "Técnico/a de Gestión",
+     "numero": null,
+     "grupo": "A2",
+     "sistema": "—",
+     "turno": "promoción interna",
+     "vinculo": "Funcionario",
+     "categoria": "Administración general"
+    }
+   ],
+   "plazo": null,
+   "resumen": "Nombramiento de personal funcionario de carrera, subescala de Gestión (promoción interna)",
+   "referencias": []
+  },
+  {
+   "id": "BOP-GRA-2026-193027",
+   "fecha": "2026-10-06",
+   "provincia": "Granada",
+   "entidad": "Ayuntamiento de Puebla de Don Fadrique",
+   "tipo": "Aprobados / propuesta",
+   "boletin": "BOP Granada",
+   "referencia": "BOP nº 193 · BOP-GRA-2026-193027",
+   "enlace": "https://bop.dipgra.es/publica/buscador-anuncios/anuncio/RELACION-DE-APROBADOS-Y-PROPUESTA-DE-NOMBRAMIENTO-PLAZA-LIMPIADOR-A-EDIFICIOS-MUNICIPALES-Y-TANATORIO/",
+   "plazas": [
+    {
+     "denominacion": "Limpiador/a de edificios municipales y tanatorio",
+     "numero": 1,
+     "grupo": "—",
+     "sistema": "—",
+     "turno": "—",
+     "vinculo": "—",
+     "categoria": "Oficios y servicios"
+    }
+   ],
+   "plazo": null,
+   "resumen": "Relación de aprobados y propuesta de nombramiento",
+   "referencias": []
+  },
+  {
+   "id": "BOP-GRA-2026-193026",
+   "fecha": "2026-10-06",
+   "provincia": "Granada",
+   "entidad": "Ayuntamiento de Padul",
+   "tipo": "Lista provisional de admitidos",
+   "boletin": "BOP Granada",
+   "referencia": "BOP nº 193 · BOP-GRA-2026-193026",
+   "enlace": "https://bop.dipgra.es/publica/buscador-anuncios/anuncio/Aprobacion-de-la-lista-provisional-de-personas-aspirantes-admitidas-y-excluidas-en-el-proceso-selectivo-para-la-provision-en-propiedad-de-dos-plazas-de-Administrativo-a-del-Ayuntamiento-de-Padul-00001/",
+   "plazas": [
+    {
+     "denominacion": "Administrativo/a",
+     "numero": 2,
+     "grupo": "C1",
+     "sistema": "—",
+     "turno": "—",
+     "vinculo": "Funcionario",
+     "categoria": "Administración general"
+    }
+   ],
+   "plazo": null,
+   "resumen": "Lista provisional de admitidos y excluidos",
+   "referencias": []
+  },
+  {
+   "id": "BOP-GRA-2026-193014",
+   "fecha": "2026-10-06",
+   "provincia": "Granada",
+   "entidad": "Ayuntamiento de Gójar",
+   "tipo": "Lista provisional de admitidos",
+   "boletin": "BOP Granada",
+   "referencia": "BOP nº 193 · BOP-GRA-2026-193014",
+   "enlace": "https://bop.dipgra.es/publica/buscador-anuncios/anuncio/LISTADO-PROVISIONAL-PERSONAS-ADMITIDAS-Y-EXCLUIDAS-AL-PROCESO-SELECTIVO-PARA-CUBRIR-UNA-PLAZA-DE-AGENTE-DE-IGUALDAD/",
+   "plazas": [
+    {
+     "denominacion": "Agente de Igualdad",
+     "numero": 1,
+     "grupo": "—",
+     "sistema": "—",
+     "turno": "—",
+     "vinculo": "Funcionario",
+     "categoria": "Servicios sociales y educación"
+    }
+   ],
+   "plazo": null,
+   "resumen": "Listado provisional de admitidos y excluidos",
+   "referencias": []
+  },
+  {
+   "id": "BOP-A-2026-3338",
+   "fecha": "2026-10-06",
+   "provincia": "Córdoba",
+   "entidad": "Ayuntamiento de Moriles",
+   "tipo": "Lista definitiva de admitidos",
+   "boletin": "BOP Córdoba",
+   "referencia": "BOP nº 193 · BOP-A-2026-3338",
+   "enlace": "https://bop.dipucordoba.es/visor-pdf/06-10-2026/BOP-A-2026-3338.pdf",
+   "plazas": [
+    {
+     "denominacion": "Bolsa de empleo (personal funcionario interino)",
+     "numero": null,
+     "grupo": "—",
+     "sistema": "concurso-oposición",
+     "turno": "—",
+     "vinculo": "Interino",
+     "categoria": "Otros"
+    }
+   ],
+   "plazo": null,
+   "resumen": "Relación definitiva de admitidos y excluidos de bolsa de empleo",
+   "referencias": []
+  },
+  {
+   "id": "BOP-A-2026-3312",
+   "fecha": "2026-10-06",
+   "provincia": "Córdoba",
+   "entidad": "Ayuntamiento de Luque",
+   "tipo": "Bolsa de empleo",
+   "boletin": "BOP Córdoba",
+   "referencia": "BOP nº 193 · BOP-A-2026-3312",
+   "enlace": "https://bop.dipucordoba.es/visor-pdf/06-10-2026/BOP-A-2026-3312.pdf",
+   "plazas": [
+    {
+     "denominacion": "Peones de Mantenimiento y Limpieza",
+     "numero": null,
+     "grupo": "Laboral",
+     "sistema": "concurso",
+     "turno": "—",
+     "vinculo": "Laboral temporal",
+     "categoria": "Oficios y servicios"
+    }
+   ],
+   "plazo": null,
+   "resumen": "Bases de bolsa de empleo (personal laboral temporal)",
+   "referencias": []
+  },
+  {
+   "id": "BOP-A-2026-3335",
+   "fecha": "2026-10-06",
+   "provincia": "Córdoba",
+   "entidad": "Ayuntamiento de La Carlota",
+   "tipo": "Bolsa de empleo",
+   "boletin": "BOP Córdoba",
+   "referencia": "BOP nº 193 · BOP-A-2026-3335",
+   "enlace": "https://bop.dipucordoba.es/visor-pdf/06-10-2026/BOP-A-2026-3335.pdf",
+   "plazas": [
+    {
+     "denominacion": "Secretaría (provisión interina)",
+     "numero": null,
+     "grupo": "A1",
+     "sistema": "concurso-oposición",
+     "turno": "—",
+     "vinculo": "Interino",
+     "categoria": "Administración general"
+    }
+   ],
+   "plazo": null,
+   "resumen": "Convocatoria y bases de bolsa de trabajo para el puesto de Secretaría con carácter interino",
+   "referencias": []
+  },
+  {
+   "id": "BOP-A-2026-3257",
+   "fecha": "2026-10-06",
+   "provincia": "Córdoba",
+   "entidad": "Ayuntamiento de Cabra",
+   "tipo": "Nombramiento",
+   "boletin": "BOP Córdoba",
+   "referencia": "BOP nº 193 · BOP-A-2026-3257",
+   "enlace": "https://bop.dipucordoba.es/visor-pdf/06-10-2026/BOP-A-2026-3257.pdf",
+   "plazas": [
+    {
+     "denominacion": "Administrativo/a de Administración General",
+     "numero": 1,
+     "grupo": "C1",
+     "sistema": "—",
+     "turno": "—",
+     "vinculo": "Interino",
+     "categoria": "Administración general"
+    }
+   ],
+   "plazo": null,
+   "resumen": "Nombramiento con carácter interino",
+   "referencias": []
+  },
+  {
+   "id": "BOP-A-2026-3331",
+   "fecha": "2026-10-06",
+   "provincia": "Córdoba",
+   "entidad": "Ayuntamiento de Baena",
+   "tipo": "Bases y convocatoria",
+   "boletin": "BOP Córdoba",
+   "referencia": "BOP nº 193 · BOP-A-2026-3331",
+   "enlace": "https://bop.dipucordoba.es/visor-pdf/06-10-2026/BOP-A-2026-3331.pdf",
+   "plazas": [
+    {
+     "denominacion": "Ingeniero/a Técnico Informático/a",
+     "numero": 1,
+     "grupo": "A2",
+     "sistema": "concurso de méritos",
+     "turno": "—",
+     "vinculo": "Interino",
+     "categoria": "Técnicos"
+    }
+   ],
+   "plazo": null,
+   "resumen": "Bases y convocatoria para nombramiento como funcionario/a interino/a",
+   "referencias": []
+  },
+  {
+   "id": "BOP-CA-2026-332452",
+   "fecha": "2026-10-06",
+   "provincia": "Cádiz",
+   "entidad": "Diputación Provincial de Cádiz",
+   "tipo": "Nombramiento",
+   "boletin": "BOP Cádiz",
+   "referencia": "BOP nº 193 · anuncio 332.452",
+   "enlace": "https://www.bopcadiz.es/export/sites/default/.boletines_pdf/2026/10_octubre/BOP193_06-10-26.pdf#page=0",
+   "plazas": [
+    {
+     "denominacion": "Funcionaria de carrera (rectificación de error en el nombramiento)",
+     "numero": 1,
+     "grupo": "—",
+     "sistema": "—",
+     "turno": "—",
+     "vinculo": "Funcionario",
+     "categoria": "Otros"
+    }
+   ],
+   "plazo": null,
+   "resumen": "Rectificación de error material en el decreto de nombramiento como funcionaria de carrera",
+   "referencias": []
+  },
+  {
+   "id": "BOP-CA-2026-317476",
+   "fecha": "2026-10-06",
+   "provincia": "Cádiz",
+   "entidad": "Ayuntamiento de Jerez de la Frontera",
+   "tipo": "Nombramiento",
+   "boletin": "BOP Cádiz",
+   "referencia": "BOP nº 193 · anuncio 317.476",
+   "enlace": "https://www.bopcadiz.es/export/sites/default/.boletines_pdf/2026/10_octubre/BOP193_06-10-26.pdf#page=4",
+   "plazas": [
+    {
+     "denominacion": "Técnico/a Medio/a de Gestión",
+     "numero": null,
+     "grupo": "A2",
+     "sistema": "—",
+     "turno": "promoción interna",
+     "vinculo": "Funcionario",
+     "categoria": "Administración general"
+    }
+   ],
+   "plazo": null,
+   "resumen": "Nombramiento de funcionarios/as de carrera, Técnico/a Medio/a de Gestión (promoción interna)",
+   "referencias": []
+  },
+  {
+   "id": "BOP-CA-2026-317502",
+   "fecha": "2026-10-06",
+   "provincia": "Cádiz",
+   "entidad": "Ayuntamiento de Jerez de la Frontera",
+   "tipo": "Nombramiento",
+   "boletin": "BOP Cádiz",
+   "referencia": "BOP nº 193 · anuncio 317.502",
+   "enlace": "https://www.bopcadiz.es/export/sites/default/.boletines_pdf/2026/10_octubre/BOP193_06-10-26.pdf#page=4",
+   "plazas": [
+    {
+     "denominacion": "Auxiliar Administrativo/a",
+     "numero": null,
+     "grupo": "C2",
+     "sistema": "—",
+     "turno": "promoción interna",
+     "vinculo": "Funcionario",
+     "categoria": "Administración general"
+    }
+   ],
+   "plazo": null,
+   "resumen": "Nombramiento de funcionarios/as de carrera, Auxiliar Administrativo/a (promoción interna)",
+   "referencias": []
+  },
+  {
+   "id": "BOP-CA-2026-317512",
+   "fecha": "2026-10-06",
+   "provincia": "Cádiz",
+   "entidad": "Ayuntamiento de Jerez de la Frontera",
+   "tipo": "Nombramiento",
+   "boletin": "BOP Cádiz",
+   "referencia": "BOP nº 193 · anuncio 317.512",
+   "enlace": "https://www.bopcadiz.es/export/sites/default/.boletines_pdf/2026/10_octubre/BOP193_06-10-26.pdf#page=5",
+   "plazas": [
+    {
+     "denominacion": "Administrativo/a",
+     "numero": null,
+     "grupo": "C1",
+     "sistema": "—",
+     "turno": "promoción interna",
+     "vinculo": "Funcionario",
+     "categoria": "Administración general"
+    }
+   ],
+   "plazo": null,
+   "resumen": "Nombramiento de funcionarios/as de carrera, Administrativo/a (promoción interna)",
+   "referencias": []
+  },
+  {
+   "id": "BOP-CA-2026-331913",
+   "fecha": "2026-10-06",
+   "provincia": "Cádiz",
+   "entidad": "Ayuntamiento de El Puerto de Santa María",
+   "tipo": "Tribunal",
+   "boletin": "BOP Cádiz",
+   "referencia": "BOP nº 193 · anuncio 331.913",
+   "enlace": "https://www.bopcadiz.es/export/sites/default/.boletines_pdf/2026/10_octubre/BOP193_06-10-26.pdf#page=19",
+   "plazas": [
+    {
+     "denominacion": "Técnico/a Superior Jurídico/a",
+     "numero": 3,
+     "grupo": "A1",
+     "sistema": "concurso-oposición",
+     "turno": "libre",
+     "vinculo": "Funcionario",
+     "categoria": "Administración general"
+    }
+   ],
+   "plazo": null,
+   "resumen": "Rectificación de los miembros del Tribunal Calificador",
+   "referencias": []
+  },
+  {
+   "id": "BOP-CA-2026-334932",
+   "fecha": "2026-10-06",
+   "provincia": "Cádiz",
+   "entidad": "Ayuntamiento de El Puerto de Santa María",
+   "tipo": "Tribunal",
+   "boletin": "BOP Cádiz",
+   "referencia": "BOP nº 193 · anuncio 334.932",
+   "enlace": "https://www.bopcadiz.es/export/sites/default/.boletines_pdf/2026/10_octubre/BOP193_06-10-26.pdf#page=19",
+   "plazas": [
+    {
+     "denominacion": "Arquitecto/a",
+     "numero": 3,
+     "grupo": "A1",
+     "sistema": "concurso-oposición",
+     "turno": "libre",
+     "vinculo": "Funcionario",
+     "categoria": "Técnicos"
+    }
+   ],
+   "plazo": null,
+   "resumen": "Rectificación de los miembros del Tribunal Calificador (OEP 2024)",
+   "referencias": []
+  },
+  {
+   "id": "BOE-A-2026-20650",
+   "fecha": "2026-10-05",
+   "provincia": "Sevilla",
+   "entidad": "Ayuntamiento de Guillena",
+   "tipo": "Apertura de plazo (BOE)",
+   "boletin": "BOE",
+   "referencia": "BOE-A-2026-20650",
+   "enlace": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-20650",
+   "plazas": [
+    {
+     "denominacion": "Técnico/a Administración General",
+     "numero": 1,
+     "escala": "escala de Administración General, subescala Técnica",
+     "vinculo": "Funcionario",
+     "sistema": "oposición",
+     "turno": "libre",
+     "grupo": "A1",
+     "categoria": "Administración general"
+    }
+   ],
+   "plazo": {
+    "dias": 20,
+    "tipo": "hábiles",
+    "fin_estimado": "2026-11-02"
+   },
+   "referencias": [
+    {
+     "boletin": "BOP Sevilla",
+     "numero": "128",
+     "fecha": "6 de julio de 2026"
+    },
+    {
+     "boletin": "BOJA",
+     "numero": "149",
+     "fecha": "4 de agosto de 2026"
+    }
+   ],
+   "resumen": "1 Técnico/a Administración General (oposición, libre)",
+   "titulo": "Resolución de 30 de septiembre de 2026, del Ayuntamiento de Guillena (Sevilla), referente a la convocatoria para proveer una plaza."
+  },
+  {
+   "id": "BOE-A-2026-20645",
+   "fecha": "2026-10-05",
+   "provincia": "Jaén",
+   "entidad": "Ayuntamiento de Bailén",
+   "tipo": "Apertura de plazo (BOE)",
+   "boletin": "BOE",
+   "referencia": "BOE-A-2026-20645",
+   "enlace": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-20645",
+   "plazas": [
+    {
+     "denominacion": "Administrativo/a",
+     "numero": 1,
+     "escala": "escala de Administración General, subescala Administrativa",
+     "vinculo": "Funcionario",
+     "sistema": "concurso-oposición",
+     "turno": "promoción interna",
+     "grupo": "C1",
+     "categoria": "Administración general"
+    }
+   ],
+   "plazo": {
+    "dias": 20,
+    "tipo": "hábiles",
+    "fin_estimado": "2026-11-02"
+   },
+   "referencias": [
+    {
+     "boletin": "BOP Jaén",
+     "numero": "188",
+     "fecha": "28 de septiembre de 2026"
+    }
+   ],
+   "resumen": "1 Administrativo/a (concurso-oposición, promoción interna)",
+   "titulo": "Resolución de 30 de septiembre de 2026, del Ayuntamiento de Bailén (Jaén), referente a la convocatoria para proveer una plaza."
+  },
+  {
+   "id": "BOE-A-2026-20653",
+   "fecha": "2026-10-05",
+   "provincia": "Granada",
+   "entidad": "Ayuntamiento de Lanjarón",
+   "tipo": "Apertura de plazo (BOE)",
+   "boletin": "BOE",
+   "referencia": "BOE-A-2026-20653",
+   "enlace": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-20653",
+   "plazas": [
+    {
+     "denominacion": "Administrativo/a",
+     "numero": 2,
+     "escala": "escala de Administración General, subescala Administrativa",
+     "vinculo": "Funcionario",
+     "sistema": "concurso-oposición",
+     "turno": "promoción interna",
+     "grupo": "C1",
+     "categoria": "Administración general"
+    }
+   ],
+   "plazo": {
+    "dias": 20,
+    "tipo": "hábiles",
+    "fin_estimado": "2026-11-02"
+   },
+   "referencias": [
+    {
+     "boletin": "BOP Granada",
+     "numero": "185",
+     "fecha": "24 de septiembre de 2026"
+    }
+   ],
+   "resumen": "2 Administrativo/a (concurso-oposición, promoción interna)",
+   "titulo": "Resolución de 30 de septiembre de 2026, del Ayuntamiento de Lanjarón (Granada), referente a la convocatoria para proveer varias plazas."
+  },
+  {
+   "id": "BOE-A-2026-20652",
+   "fecha": "2026-10-05",
+   "provincia": "Córdoba",
+   "entidad": "Ayuntamiento de Córdoba, Instituto Municipal de Deportes de Córdoba",
+   "tipo": "Apertura de plazo (BOE)",
+   "boletin": "BOE",
+   "referencia": "BOE-A-2026-20652",
+   "enlace": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-20652",
+   "plazas": [
+    {
+     "denominacion": "Técnico/a de Gestión",
+     "numero": 3,
+     "escala": "escala de Administración General, subescala Gestión",
+     "vinculo": "Funcionario",
+     "sistema": "oposición",
+     "turno": "libre",
+     "grupo": "A2",
+     "categoria": "Administración general"
+    }
+   ],
+   "plazo": {
+    "dias": 20,
+    "tipo": "hábiles",
+    "fin_estimado": "2026-11-02"
+   },
+   "referencias": [
+    {
+     "boletin": "BOP Córdoba",
+     "numero": "248",
+     "fecha": "30 de diciembre de 2025"
+    },
+    {
+     "boletin": "BOJA",
+     "numero": "40",
+     "fecha": "27 de febrero de 2026"
+    }
+   ],
+   "resumen": "3 Técnico/a de Gestión (oposición, libre)",
+   "titulo": "Resolución de 30 de septiembre de 2026, del Ayuntamiento de Córdoba, Instituto Municipal de Deportes de Córdoba, referente a la convocatoria para proveer varias plazas."
+  },
+  {
+   "id": "BOE-A-2026-20647",
+   "fecha": "2026-10-05",
+   "provincia": "Cádiz",
+   "entidad": "Ayuntamiento de Trebujena",
+   "tipo": "Apertura de plazo (BOE)",
+   "boletin": "BOE",
+   "referencia": "BOE-A-2026-20647",
+   "enlace": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-20647",
+   "plazas": [
+    {
+     "denominacion": "Técnico/a Recursos Humanos",
+     "numero": 1,
+     "escala": "escala de Administración Especial, subescala Técnica",
+     "vinculo": "Funcionario",
+     "sistema": "concurso-oposición",
+     "turno": "promoción interna",
+     "grupo": "—",
+     "categoria": "Administración general"
+    }
+   ],
+   "plazo": {
+    "dias": 20,
+    "tipo": "hábiles",
+    "fin_estimado": "2026-11-02"
+   },
+   "referencias": [
+    {
+     "boletin": "BOP Cádiz",
+     "numero": "172",
+     "fecha": "7 de septiembre de 2026"
+    },
+    {
+     "boletin": "BOJA",
+     "numero": "189",
+     "fecha": "29 de septiembre de 2026"
+    }
+   ],
+   "resumen": "1 Técnico/a Recursos Humanos (concurso-oposición, promoción interna)",
+   "titulo": "Resolución de 30 de septiembre de 2026, del Ayuntamiento de Trebujena (Cádiz), referente a la convocatoria para proveer una plaza."
+  },
+  {
+   "id": "BOE-A-2026-20565",
+   "fecha": "2026-10-03",
+   "provincia": "Huelva",
+   "entidad": "Ayuntamiento de Villanueva de los Castillejos",
+   "tipo": "Apertura de plazo (BOE)",
+   "boletin": "BOE",
+   "referencia": "BOE-A-2026-20565",
+   "enlace": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-20565",
+   "plazas": [
+    {
+     "denominacion": "Auxiliar administrativo/a",
+     "numero": 1,
+     "escala": "escala de Administración General, subescala Auxiliar y clase Auxiliar",
+     "vinculo": "Funcionario",
+     "sistema": "oposición",
+     "turno": "libre",
+     "grupo": "C2",
+     "categoria": "Administración general"
+    }
+   ],
+   "plazo": {
+    "dias": 20,
+    "tipo": "hábiles",
+    "fin_estimado": "2026-10-30"
+   },
+   "referencias": [
+    {
+     "boletin": "BOP Huelva",
+     "numero": "178",
+     "fecha": "16 de septiembre de 2026"
+    }
+   ],
+   "resumen": "1 Auxiliar administrativo/a (oposición, libre)",
+   "titulo": "Resolución de 29 de septiembre de 2026, del Ayuntamiento de Villanueva de los Castillejos (Huelva), referente a la convocatoria para proveer una plaza."
+  },
+  {
+   "id": "BOE-A-2026-20499",
+   "fecha": "2026-10-02",
+   "provincia": "Málaga",
+   "entidad": "Ayuntamiento de Torrox",
+   "tipo": "Apertura de plazo (BOE)",
+   "boletin": "BOE",
+   "referencia": "BOE-A-2026-20499",
+   "enlace": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-20499",
+   "plazas": [
+    {
+     "denominacion": "Técnico/a Medio Informático/a",
+     "numero": 1,
+     "escala": "",
+     "vinculo": "Laboral fijo",
+     "sistema": "concurso-oposición",
+     "turno": "libre",
+     "grupo": "Laboral",
+     "categoria": "Técnicos"
+    }
+   ],
+   "plazo": {
+    "dias": 20,
+    "tipo": "hábiles",
+    "fin_estimado": "2026-10-30"
+   },
+   "referencias": [
+    {
+     "boletin": "BOP Málaga",
+     "numero": "148",
+     "fecha": "3 de agosto de 2026"
+    },
+    {
+     "boletin": "BOJA",
+     "numero": "163",
+     "fecha": "24 de agosto de 2026"
+    }
+   ],
+   "resumen": "1 Técnico/a Medio Informático/a (concurso-oposición, libre)",
+   "titulo": "Resolución de 25 de septiembre de 2026, del Ayuntamiento de Torrox (Málaga), referente a la convocatoria para proveer una plaza."
+  },
+  {
+   "id": "BOE-A-2026-20494",
+   "fecha": "2026-10-02",
+   "provincia": "Málaga",
+   "entidad": "Ayuntamiento de Mijas",
+   "tipo": "Apertura de plazo (BOE)",
+   "boletin": "BOE",
+   "referencia": "BOE-A-2026-20494",
+   "enlace": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-20494",
+   "plazas": [
+    {
+     "denominacion": "Auxiliar Administrativo/a",
+     "numero": 2,
+     "escala": "escala de Administración General, subescala Auxiliar",
+     "vinculo": "Funcionario",
+     "sistema": "oposición",
+     "turno": "libre",
+     "grupo": "C2",
+     "categoria": "Administración general"
+    },
+    {
+     "denominacion": "Auxiliar Administrativo/a",
+     "numero": 1,
+     "escala": "escala de Administración General, subescala Auxiliar",
+     "vinculo": "Funcionario",
+     "sistema": "oposición",
+     "turno": "reservado a personas con discapacidad",
+     "grupo": "C2",
+     "categoria": "Administración general"
+    }
+   ],
+   "plazo": {
+    "dias": 10,
+    "tipo": "hábiles",
+    "fin_estimado": "2026-10-16"
+   },
+   "referencias": [
+    {
+     "boletin": "BOP Málaga",
+     "numero": "40",
+     "fecha": "27 de febrero de 2026"
+    },
+    {
+     "boletin": "BOJA",
+     "numero": "172",
+     "fecha": "4 de septiembre de 2026"
+    }
+   ],
+   "resumen": "2 Auxiliar Administrativo/a (oposición, libre); 1 Auxiliar Administrativo/a (oposición, reservado a personas con discapacidad)",
+   "titulo": "Resolución de 25 de septiembre de 2026, del Ayuntamiento de Mijas (Málaga), referente a la convocatoria para proveer varias plazas."
+  },
+  {
+   "id": "BOE-A-2026-20488",
+   "fecha": "2026-10-02",
+   "provincia": "Granada",
+   "entidad": "Ayuntamiento de Motril",
+   "tipo": "Apertura de plazo (BOE)",
+   "boletin": "BOE",
+   "referencia": "BOE-A-2026-20488",
+   "enlace": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-20488",
+   "plazas": [
+    {
+     "denominacion": "Jefatura de Negociado de Juventud y Fiestas, perteneciente a la escala de Administración General/Especial, varias subescalas.",
+     "numero": null,
+     "escala": "",
+     "vinculo": "Funcionario (provisión de puestos)",
+     "sistema": "Concurso",
+     "turno": "",
+     "grupo": "—",
+     "categoria": "Provisión de puestos"
+    }
+   ],
+   "plazo": {
+    "dias": 15,
+    "tipo": "hábiles",
+    "fin_estimado": "2026-10-23"
+   },
+   "referencias": [
+    {
+     "boletin": "BOP Granada",
+     "numero": "187",
+     "fecha": "28 de septiembre de 2026"
+    }
+   ],
+   "resumen": "Jefatura de Negociado de Juventud y Fiestas, perteneciente a la escala de Administración General/Especial, varias subescalas. (Concurso)",
+   "titulo": "Resolución de 28 de septiembre de 2026, del Ayuntamiento de Motril (Granada), referente a la convocatoria para proveer puesto de trabajo por el sistema de concurso."
+  },
+  {
+   "id": "BOE-A-2026-20325",
+   "fecha": "2026-09-30",
+   "provincia": "Málaga",
+   "entidad": "Ayuntamiento de Casares",
+   "tipo": "Apertura de plazo (BOE)",
+   "boletin": "BOE",
+   "referencia": "BOE-A-2026-20325",
+   "enlace": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-20325",
+   "plazas": [
+    {
+     "denominacion": "Técnico/a Auxiiar de Educación",
+     "numero": 3,
+     "escala": "",
+     "vinculo": "Laboral fijo",
+     "sistema": "concurso-oposición",
+     "turno": "libre",
+     "grupo": "Laboral",
+     "categoria": "Servicios sociales y educación"
+    }
+   ],
+   "plazo": {
+    "dias": 10,
+    "tipo": "hábiles",
+    "fin_estimado": "2026-10-14"
+   },
+   "referencias": [
+    {
+     "boletin": "BOP Málaga",
+     "numero": "168",
+     "fecha": "1 de septiembre de 2026"
+    }
+   ],
+   "resumen": "3 Técnico/a Auxiiar de Educación (concurso-oposición, libre)",
+   "titulo": "Resolución de 1 de septiembre de 2026, del Ayuntamiento de Casares (Málaga), referente a la convocatoria para proveer varias plazas."
+  },
+  {
+   "id": "BOE-A-2026-20328",
+   "fecha": "2026-09-30",
+   "provincia": "Granada",
+   "entidad": "Entidad Local Autónoma de El Turro",
+   "tipo": "Apertura de plazo (BOE)",
+   "boletin": "BOE",
+   "referencia": "BOE-A-2026-20328",
+   "enlace": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-20328",
+   "plazas": [
+    {
+     "denominacion": "Operario/a de Servicios Múltiples",
+     "numero": 1,
+     "escala": "",
+     "vinculo": "Laboral fijo",
+     "sistema": "concurso-oposición",
+     "turno": "libre",
+     "grupo": "Laboral",
+     "categoria": "Oficios y servicios"
+    },
+    {
+     "denominacion": "Dinamizador/a Punto Vuela",
+     "numero": 1,
+     "escala": "",
+     "vinculo": "Laboral fijo",
+     "sistema": "concurso-oposición",
+     "turno": "libre",
+     "grupo": "Laboral",
+     "categoria": "Servicios sociales y educación"
+    }
+   ],
+   "plazo": {
+    "dias": 20,
+    "tipo": "hábiles",
+    "fin_estimado": "2026-10-28"
+   },
+   "referencias": [
+    {
+     "boletin": "BOP Granada",
+     "numero": "180",
+     "fecha": "17 de septiembre de 2026"
+    }
+   ],
+   "resumen": "1 Operario/a de Servicios Múltiples (concurso-oposición, libre); 1 Dinamizador/a Punto Vuela (concurso-oposición, libre)",
+   "titulo": "Resolución de 17 de septiembre de 2026, de la Entidad Local Autónoma de El Turro (Granada), referente a la convocatoria para proveer varias plazas."
+  },
+  {
+   "id": "BOE-A-2026-20331",
+   "fecha": "2026-09-30",
+   "provincia": "Granada",
+   "entidad": "Ayuntamiento de Motril",
+   "tipo": "Apertura de plazo (BOE)",
+   "boletin": "BOE",
+   "referencia": "BOE-A-2026-20331",
+   "enlace": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-20331",
+   "plazas": [
+    {
+     "denominacion": "Técnico/a Medio/a",
+     "numero": 1,
+     "escala": "escala de Administración General, subescala Gestión",
+     "vinculo": "Funcionario",
+     "sistema": "concurso-oposición",
+     "turno": "promoción interna",
+     "grupo": "A2",
+     "categoria": "Administración general"
+    }
+   ],
+   "plazo": {
+    "dias": 20,
+    "tipo": "hábiles",
+    "fin_estimado": "2026-10-28"
+   },
+   "referencias": [
+    {
+     "boletin": "BOP Granada",
+     "numero": "153",
+     "fecha": "11 de agosto de 2026"
+    },
+    {
+     "boletin": "BOJA",
+     "numero": "184",
+     "fecha": "22 de septiembre de 2026"
+    }
+   ],
+   "resumen": "1 Técnico/a Medio/a (concurso-oposición, promoción interna)",
+   "titulo": "Resolución de 23 de septiembre de 2026, del Ayuntamiento de Motril (Granada), referente a la convocatoria para proveer una plaza."
+  },
+  {
+   "id": "BOE-A-2026-20332",
+   "fecha": "2026-09-30",
+   "provincia": "Granada",
+   "entidad": "Ayuntamiento de Motril",
+   "tipo": "Apertura de plazo (BOE)",
+   "boletin": "BOE",
+   "referencia": "BOE-A-2026-20332",
+   "enlace": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-20332",
+   "plazas": [
+    {
+     "denominacion": "Técnico/a Medio/a",
+     "numero": 1,
+     "escala": "escala de Administración General, subescala Gestión",
+     "vinculo": "Funcionario",
+     "sistema": "concurso-oposición",
+     "turno": "promoción interna",
+     "grupo": "A2",
+     "categoria": "Administración general"
+    }
+   ],
+   "plazo": {
+    "dias": 20,
+    "tipo": "hábiles",
+    "fin_estimado": "2026-10-28"
+   },
+   "referencias": [
+    {
+     "boletin": "BOP Granada",
+     "numero": "151",
+     "fecha": "7 de agosto de 2026"
+    },
+    {
+     "boletin": "BOJA",
+     "numero": "184",
+     "fecha": "22 de septiembre de 2026"
+    }
+   ],
+   "resumen": "1 Técnico/a Medio/a (concurso-oposición, promoción interna)",
+   "titulo": "Resolución de 23 de septiembre de 2026, del Ayuntamiento de Motril (Granada), referente a la convocatoria para proveer una plaza."
+  },
+  {
+   "id": "BOE-A-2026-20333",
+   "fecha": "2026-09-30",
+   "provincia": "Granada",
+   "entidad": "Ayuntamiento de Motril",
+   "tipo": "Apertura de plazo (BOE)",
+   "boletin": "BOE",
+   "referencia": "BOE-A-2026-20333",
+   "enlace": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-20333",
+   "plazas": [
+    {
+     "denominacion": "Técnico/a Medio/a",
+     "numero": 1,
+     "escala": "escala de Administración General, subescala Gestión",
+     "vinculo": "Funcionario",
+     "sistema": "oposición",
+     "turno": "libre",
+     "grupo": "A2",
+     "categoria": "Administración general"
+    }
+   ],
+   "plazo": {
+    "dias": 20,
+    "tipo": "hábiles",
+    "fin_estimado": "2026-10-28"
+   },
+   "referencias": [
+    {
+     "boletin": "BOP Granada",
+     "numero": "155",
+     "fecha": "13 de agosto de 2026"
+    },
+    {
+     "boletin": "BOJA",
+     "numero": "184",
+     "fecha": "22 de septiembre de 2026"
+    }
+   ],
+   "resumen": "1 Técnico/a Medio/a (oposición, libre)",
+   "titulo": "Resolución de 23 de septiembre de 2026, del Ayuntamiento de Motril (Granada), referente a la convocatoria para proveer una plaza."
+  },
+  {
+   "id": "BOE-A-2026-20179",
+   "fecha": "2026-09-29",
+   "provincia": "Cádiz",
+   "entidad": "Diputación Provincial de Cádiz",
+   "tipo": "Apertura de plazo (BOE)",
+   "boletin": "BOE",
+   "referencia": "BOE-A-2026-20179",
+   "enlace": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-20179",
+   "plazas": [
+    {
+     "denominacion": "Técnico/a Administración General",
+     "numero": 29,
+     "escala": "escala de Administración General, subescala Técnica",
+     "vinculo": "Funcionario",
+     "sistema": "oposición",
+     "turno": "libre",
+     "grupo": "A1",
+     "categoria": "Administración general"
+    },
+    {
+     "denominacion": "Técnico/a Administración General",
+     "numero": 4,
+     "escala": "escala de Administración General, subescala Técnica",
+     "vinculo": "Funcionario",
+     "sistema": "oposición",
+     "turno": "reservado a personas con discapacidad",
+     "grupo": "A1",
+     "categoria": "Administración general"
+    },
+    {
+     "denominacion": "Auxiliar Administrativo/a",
+     "numero": 37,
+     "escala": "escala de Administración General, subescala Auxiliar",
+     "vinculo": "Funcionario",
+     "sistema": "oposición",
+     "turno": "libre",
+     "grupo": "C2",
+     "categoria": "Administración general"
+    },
+    {
+     "denominacion": "Auxiliar Administrativo/a",
+     "numero": 7,
+     "escala": "escala de Administración General, subescala Auxiliar",
+     "vinculo": "Funcionario",
+     "sistema": "oposición",
+     "turno": "reservado a personas con discapacidad",
+     "grupo": "C2",
+     "categoria": "Administración general"
+    },
+    {
+     "denominacion": "Delineante",
+     "numero": 3,
+     "escala": "escala de Administración Especial, subescala Técnica y clase Auxiliar",
+     "vinculo": "Funcionario",
+     "sistema": "concurso-oposición",
+     "turno": "libre",
+     "grupo": "C2",
+     "categoria": "Otros"
+    },
+    {
+     "denominacion": "Realizador/a",
+     "numero": 1,
+     "escala": "escala de Administración Especial, subescala Técnica y clase Auxiliar",
+     "vinculo": "Funcionario",
+     "sistema": "oposición",
+     "turno": "libre",
+     "grupo": "C2",
+     "categoria": "Otros"
+    },
+    {
+     "denominacion": "Oficial Primera Mantenimiento",
+     "numero": 1,
+     "escala": "escala de Administración Especial, subescala Servicios especiales y clase Personal de oficios",
+     "vinculo": "Funcionario",
+     "sistema": "oposición",
+     "turno": "libre",
+     "grupo": "C2/AP",
+     "categoria": "Oficios y servicios"
+    },
+    {
+     "denominacion": "Auxiliar de Producción",
+     "numero": 1,
+     "escala": "escala de Administración Especial, subescala Servicios especiales y clase Cometidos especiales",
+     "vinculo": "Funcionario",
+     "sistema": "concurso-oposición",
+     "turno": "libre",
+     "grupo": "—",
+     "categoria": "Otros"
+    },
+    {
+     "denominacion": "Auxiliar Enfermería Geriatría",
+     "numero": 31,
+     "escala": "escala de Administración Especial, subescala Servicios especiales y clase Cometidos especiales",
+     "vinculo": "Funcionario",
+     "sistema": "oposición",
+     "turno": "libre",
+     "grupo": "—",
+     "categoria": "Otros"
+    },
+    {
+     "denominacion": "Ayudante/a Servicios Especiales",
+     "numero": 5,
+     "escala": "escala de Administración Especial, subescala Servicios especiales",
+     "vinculo": "Funcionario",
+     "sistema": "oposición",
+     "turno": "libre",
+     "grupo": "—",
+     "categoria": "Otros"
+    }
+   ],
+   "plazo": {
+    "dias": 20,
+    "tipo": "hábiles",
+    "fin_estimado": "2026-10-27"
+   },
+   "referencias": [
+    {
+     "boletin": "BOP Cádiz",
+     "numero": "28",
+     "fecha": "11 de febrero de 2026"
+    }
+   ],
+   "resumen": "29 Técnico/a Administración General (oposición, libre); 4 Técnico/a Administración General (oposición, reservado a personas con discapacidad); 37 Auxiliar Administrativo/a (oposición, libre); 7 Auxiliar Administrativo/a (oposición, reservado a personas con discapacidad); 3 Delineante (concurso-oposición, libre); 1 Realizador/a (oposición, libre); 1 Oficial Primera Mantenimiento (oposición, libre); 1 Auxiliar de Producción (concurso-oposición, libre); 31 Auxiliar Enfermería Geriatría (oposición, libre); 5 Ayudante/a Servicios Especiales (oposición, libre)",
+   "titulo": "Resolución de 21 de septiembre de 2026, de la Diputación Provincial de Cádiz, referente a la convocatoria para proveer varias plazas."
+  },
+  {
+   "id": "BOE-A-2026-20184",
+   "fecha": "2026-09-29",
+   "provincia": "Cádiz",
+   "entidad": "Ayuntamiento de Ubrique",
+   "tipo": "Apertura de plazo (BOE)",
+   "boletin": "BOE",
+   "referencia": "BOE-A-2026-20184",
+   "enlace": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-20184",
+   "plazas": [
+    {
+     "denominacion": "Inspector/a Obras",
+     "numero": 1,
+     "escala": "escala de Administración General, subescala Administrativa",
+     "vinculo": "Funcionario",
+     "sistema": "oposición",
+     "turno": "libre",
+     "grupo": "C1",
+     "categoria": "Técnicos"
+    }
+   ],
+   "plazo": {
+    "dias": 20,
+    "tipo": "hábiles",
+    "fin_estimado": "2026-10-27"
+   },
+   "referencias": [
+    {
+     "boletin": "BOP Cádiz",
+     "numero": "174",
+     "fecha": "9 de septiembre de 2026"
+    },
+    {
+     "boletin": "BOJA",
+     "numero": "185",
+     "fecha": "23 de septiembre de 2026"
+    }
+   ],
+   "resumen": "1 Inspector/a Obras (oposición, libre)",
+   "titulo": "Resolución de 23 de septiembre de 2026, del Ayuntamiento de Ubrique (Cádiz), referente a la convocatoria para proveer una plaza."
+  },
+  {
+   "id": "BOE-A-2026-20058",
+   "fecha": "2026-09-28",
+   "provincia": "Cádiz",
+   "entidad": "Ayuntamiento de Ubrique",
+   "tipo": "Apertura de plazo (BOE)",
+   "boletin": "BOE",
+   "referencia": "BOE-A-2026-20058",
+   "enlace": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-20058",
+   "plazas": [
+    {
+     "denominacion": "Sepulturero/a",
+     "numero": 1,
+     "escala": "",
+     "vinculo": "Laboral fijo",
+     "sistema": "concurso-oposición",
+     "turno": "libre",
+     "grupo": "Laboral",
+     "categoria": "Oficios y servicios"
+    }
+   ],
+   "plazo": {
+    "dias": 20,
+    "tipo": "hábiles",
+    "fin_estimado": "2026-10-26"
+   },
+   "referencias": [
+    {
+     "boletin": "BOP Cádiz",
+     "numero": "174",
+     "fecha": "9 de septiembre de 2026"
+    },
+    {
+     "boletin": "BOJA",
+     "numero": "183",
+     "fecha": "21 de septiembre de 2026"
+    }
+   ],
+   "resumen": "1 Sepulturero/a (concurso-oposición, libre)",
+   "titulo": "Resolución de 22 de septiembre de 2026, del Ayuntamiento de Ubrique (Cádiz), referente a la convocatoria para proveer una plaza."
+  },
+  {
+   "id": "BOE-A-2026-20059",
+   "fecha": "2026-09-28",
+   "provincia": "Cádiz",
+   "entidad": "Ayuntamiento de Ubrique",
+   "tipo": "Apertura de plazo (BOE)",
+   "boletin": "BOE",
+   "referencia": "BOE-A-2026-20059",
+   "enlace": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-20059",
+   "plazas": [
+    {
+     "denominacion": "Dinamizador/a de Programas, Proyectos y Eventos",
+     "numero": 1,
+     "escala": "",
+     "vinculo": "Laboral fijo",
+     "sistema": "oposición",
+     "turno": "libre",
+     "grupo": "Laboral",
+     "categoria": "Servicios sociales y educación"
+    }
+   ],
+   "plazo": {
+    "dias": 20,
+    "tipo": "hábiles",
+    "fin_estimado": "2026-10-26"
+   },
+   "referencias": [
+    {
+     "boletin": "BOP Cádiz",
+     "numero": "174",
+     "fecha": "9 de septiembre de 2026"
+    },
+    {
+     "boletin": "BOJA",
+     "numero": "184",
+     "fecha": "22 de septiembre de 2026"
+    }
+   ],
+   "resumen": "1 Dinamizador/a de Programas, Proyectos y Eventos (oposición, libre)",
+   "titulo": "Resolución de 22 de septiembre de 2026, del Ayuntamiento de Ubrique (Cádiz), referente a la convocatoria para proveer una plaza."
+  },
+  {
+   "id": "BOE-A-2026-20047",
+   "fecha": "2026-09-28",
+   "provincia": "Almería",
+   "entidad": "Ayuntamiento de Pechina",
+   "tipo": "Apertura de plazo (BOE)",
+   "boletin": "BOE",
+   "referencia": "BOE-A-2026-20047",
+   "enlace": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-20047",
+   "plazas": [
+    {
+     "denominacion": "Administrativo/a",
+     "numero": 1,
+     "escala": "escala de Administración General, subescala Administrativa",
+     "vinculo": "Funcionario",
+     "sistema": "concurso-oposición",
+     "turno": "promoción interna",
+     "grupo": "C1",
+     "categoria": "Administración general"
+    }
+   ],
+   "plazo": {
+    "dias": 20,
+    "tipo": "hábiles",
+    "fin_estimado": "2026-10-26"
+   },
+   "referencias": [
+    {
+     "boletin": "BOP Almería",
+     "numero": "146",
+     "fecha": "31 de julio de 2026"
+    },
+    {
+     "boletin": "BOJA",
+     "numero": "182",
+     "fecha": "18 de septiembre de 2026"
+    }
+   ],
+   "resumen": "1 Administrativo/a (concurso-oposición, promoción interna)",
+   "titulo": "Resolución de 21 de septiembre de 2026, del Ayuntamiento de Pechina (Almería), referente a la convocatoria para proveer una plaza."
+  },
+  {
+   "id": "BOE-A-2026-19978",
+   "fecha": "2026-09-26",
+   "provincia": "Málaga",
+   "entidad": "Ayuntamiento de Torrox",
+   "tipo": "Apertura de plazo (BOE)",
+   "boletin": "BOE",
+   "referencia": "BOE-A-2026-19978",
+   "enlace": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-19978",
+   "plazas": [
+    {
+     "denominacion": "Oficial de Pintura",
+     "numero": 4,
+     "escala": "escala de Administración Especial, subescala Servicios especiales y clase Personal de oficios",
+     "vinculo": "Funcionario",
+     "sistema": "concurso-oposición",
+     "turno": "libre",
+     "grupo": "C2/AP",
+     "categoria": "Oficios y servicios"
+    }
+   ],
+   "plazo": {
+    "dias": 20,
+    "tipo": "hábiles",
+    "fin_estimado": "2026-10-23"
+   },
+   "referencias": [
+    {
+     "boletin": "BOP Málaga",
+     "numero": "150",
+     "fecha": "5 de agosto de 2026"
+    },
+    {
+     "boletin": "BOJA",
+     "numero": "162",
+     "fecha": "21 de agosto de 2026"
+    }
+   ],
+   "resumen": "4 Oficial de Pintura (concurso-oposición, libre)",
+   "titulo": "Resolución de 21 de septiembre de 2026, del Ayuntamiento de Torrox (Málaga), referente a la convocatoria para proveer varias plazas."
+  },
+  {
+   "id": "BOE-A-2026-19975",
+   "fecha": "2026-09-26",
+   "provincia": "Huelva",
+   "entidad": "Diputación Provincial de Huelva",
+   "tipo": "Apertura de plazo (BOE)",
+   "boletin": "BOE",
+   "referencia": "BOE-A-2026-19975",
+   "enlace": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-19975",
+   "plazas": [
+    {
+     "denominacion": "Letrado/a",
+     "numero": 1,
+     "escala": "escala de Administración Especial, subescala Técnica y clase Superior",
+     "vinculo": "Funcionario",
+     "sistema": "oposición",
+     "turno": "libre",
+     "grupo": "A1",
+     "categoria": "Administración general"
+    }
+   ],
+   "plazo": {
+    "dias": 20,
+    "tipo": "hábiles",
+    "fin_estimado": "2026-10-23"
+   },
+   "referencias": [
+    {
+     "boletin": "BOP Huelva",
+     "numero": "138",
+     "fecha": "20 de julio de 2026"
+    }
+   ],
+   "resumen": "1 Letrado/a (oposición, libre)",
+   "titulo": "Resolución de 21 de septiembre de 2026, de la Diputación Provincial de Huelva, referente a la convocatoria para proveer una plaza."
+  },
+  {
+   "id": "BOE-A-2026-19880",
+   "fecha": "2026-09-25",
+   "provincia": "Sevilla",
+   "entidad": "Diputación Provincial de Sevilla, Organismo Provincial de Asistencia Económica y Fiscal",
+   "tipo": "Apertura de plazo (BOE)",
+   "boletin": "BOE",
+   "referencia": "BOE-A-2026-19880",
+   "enlace": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-19880",
+   "plazas": [
+    {
+     "denominacion": "Técnico/a de Administración General",
+     "numero": 2,
+     "escala": "escala de Administración General, subescala Técnica y clase Superior",
+     "vinculo": "Funcionario",
+     "sistema": "oposición",
+     "turno": "libre",
+     "grupo": "A1",
+     "categoria": "Administración general"
+    }
+   ],
+   "plazo": {
+    "dias": 20,
+    "tipo": "hábiles",
+    "fin_estimado": "2026-10-23"
+   },
+   "referencias": [
+    {
+     "boletin": "BOP Sevilla",
+     "numero": "166",
+     "fecha": "27 de agosto de 2026"
+    }
+   ],
+   "resumen": "2 Técnico/a de Administración General (oposición, libre)",
+   "titulo": "Resolución de 17 de septiembre de 2026, de la Diputación Provincial de Sevilla, Organismo Provincial de Asistencia Económica y Fiscal, referente a la convocatoria para proveer varias plazas."
+  },
+  {
+   "id": "BOE-A-2026-19890",
+   "fecha": "2026-09-25",
+   "provincia": "Sevilla",
+   "entidad": "Ayuntamiento de Villanueva del Río y Minas",
+   "tipo": "Apertura de plazo (BOE)",
+   "boletin": "BOE",
+   "referencia": "BOE-A-2026-19890",
+   "enlace": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-19890",
+   "plazas": [
+    {
+     "denominacion": "Administrativo/a",
+     "numero": 1,
+     "escala": "escala de Administración General, subescala Administrativa y clase Media",
+     "vinculo": "Funcionario",
+     "sistema": "oposición",
+     "turno": "libre",
+     "grupo": "C1",
+     "categoria": "Administración general"
+    }
+   ],
+   "plazo": {
+    "dias": 10,
+    "tipo": "naturales",
+    "fin_estimado": "2026-10-05"
+   },
+   "referencias": [
+    {
+     "boletin": "BOP Sevilla",
+     "numero": "181",
+     "fecha": "17 de septiembre de 2026"
+    }
+   ],
+   "resumen": "1 Administrativo/a (oposición, libre)",
+   "titulo": "Resolución de 18 de septiembre de 2026, del Ayuntamiento de Villanueva del Río y Minas (Sevilla), referente a la convocatoria para proveer una plaza."
+  },
+  {
+   "id": "BOE-A-2026-19886",
+   "fecha": "2026-09-25",
+   "provincia": "Sevilla",
+   "entidad": "Ayuntamiento de Utrera",
+   "tipo": "Apertura de plazo (BOE)",
+   "boletin": "BOE",
+   "referencia": "BOE-A-2026-19886",
+   "enlace": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-19886",
+   "plazas": [
+    {
+     "denominacion": "Administrativos/as",
+     "numero": 3,
+     "escala": "escala de Administración General, subescala Administrativa",
+     "vinculo": "Funcionario",
+     "sistema": "oposición",
+     "turno": "libre",
+     "grupo": "C1",
+     "categoria": "Administración general"
+    },
+    {
+     "denominacion": "Administrativos/as",
+     "numero": 3,
+     "escala": "escala de Administración General, subescala Administrativa",
+     "vinculo": "Funcionario",
+     "sistema": "oposición",
+     "turno": "promoción interna",
+     "grupo": "C1",
+     "categoria": "Administración general"
+    }
+   ],
+   "plazo": {
+    "dias": 20,
+    "tipo": "hábiles",
+    "fin_estimado": "2026-10-23"
+   },
+   "referencias": [
+    {
+     "boletin": "BOP Sevilla",
+     "numero": "130",
+     "fecha": "8 de julio de 2026"
+    }
+   ],
+   "resumen": "3 Administrativos/as (oposición, libre); 3 Administrativos/as (oposición, promoción interna)",
+   "titulo": "Resolución de 18 de septiembre de 2026, del Ayuntamiento de Utrera (Sevilla), referente a la convocatoria para proveer varias plazas."
+  },
+  {
+   "id": "BOE-A-2026-19887",
+   "fecha": "2026-09-25",
+   "provincia": "Sevilla",
+   "entidad": "Ayuntamiento de Utrera",
+   "tipo": "Apertura de plazo (BOE)",
+   "boletin": "BOE",
+   "referencia": "BOE-A-2026-19887",
+   "enlace": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-19887",
+   "plazas": [
+    {
+     "denominacion": "Trabajador/a Social",
+     "numero": 2,
+     "escala": "escala de Administración Especial, subescala Técnica y clase Media",
+     "vinculo": "Funcionario",
+     "sistema": "oposición",
+     "turno": "libre",
+     "grupo": "A2",
+     "categoria": "Servicios sociales y educación"
+    },
+    {
+     "denominacion": "Ingeniería Técnica Industrial",
+     "numero": 1,
+     "escala": "escala de Administración Especial, subescala Técnica y clase Media",
+     "vinculo": "Funcionario",
+     "sistema": "oposición",
+     "turno": "libre",
+     "grupo": "A2",
+     "categoria": "Técnicos"
+    }
+   ],
+   "plazo": {
+    "dias": 20,
+    "tipo": "hábiles",
+    "fin_estimado": "2026-10-23"
+   },
+   "referencias": [
+    {
+     "boletin": "BOP Sevilla",
+     "numero": "133",
+     "fecha": "13 de julio de 2026"
+    },
+    {
+     "boletin": "BOP Sevilla",
+     "numero": "143",
+     "fecha": "27 de julio de 2026"
+    }
+   ],
+   "resumen": "2 Trabajador/a Social (oposición, libre); 1 Ingeniería Técnica Industrial (oposición, libre)",
+   "titulo": "Resolución de 18 de septiembre de 2026, del Ayuntamiento de Utrera (Sevilla), referente a la convocatoria para proveer varias plazas."
+  },
+  {
+   "id": "BOE-A-2026-19895",
+   "fecha": "2026-09-25",
+   "provincia": "Jaén",
+   "entidad": "Ayuntamiento de Rus",
+   "tipo": "Rectificación / anulación",
+   "boletin": "BOE",
+   "referencia": "BOE-A-2026-19895",
+   "enlace": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-19895",
+   "plazas": [],
+   "plazo": null,
+   "referencias": [],
+   "resumen": "Resolución de 18 de septiembre de 2026, del Ayuntamiento de Rus (Jaén), que deja sin efecto la de 7 de septiembre de 2026, referente a la convocatoria para proveer una plaza.",
+   "titulo": "Resolución de 18 de septiembre de 2026, del Ayuntamiento de Rus (Jaén), que deja sin efecto la de 7 de septiembre de 2026, referente a la convocatoria para proveer una plaza."
+  },
+  {
+   "id": "BOE-A-2026-19878",
+   "fecha": "2026-09-25",
+   "provincia": "Huelva",
+   "entidad": "Ayuntamiento de El Almendro",
+   "tipo": "Apertura de plazo (BOE)",
+   "boletin": "BOE",
+   "referencia": "BOE-A-2026-19878",
+   "enlace": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-19878",
+   "plazas": [
+    {
+     "denominacion": "Oficial Primero/a de Obras",
+     "numero": 1,
+     "escala": "",
+     "vinculo": "Laboral fijo",
+     "sistema": "oposición",
+     "turno": "libre",
+     "grupo": "Laboral",
+     "categoria": "Oficios y servicios"
+    }
+   ],
+   "plazo": {
+    "dias": 20,
+    "tipo": "hábiles",
+    "fin_estimado": "2026-10-23"
+   },
+   "referencias": [
+    {
+     "boletin": "BOP Huelva",
+     "numero": "176",
+     "fecha": "16 de septiembre de 2026"
+    }
+   ],
+   "resumen": "1 Oficial Primero/a de Obras (oposición, libre)",
+   "titulo": "Resolución de 16 de septiembre de 2026, del Ayuntamiento de El Almendro (Huelva), referente a la convocatoria para proveer una plaza."
+  },
+  {
+   "id": "BOE-A-2026-19814",
+   "fecha": "2026-09-24",
+   "provincia": "Jaén",
+   "entidad": "Ayuntamiento de Mengíbar",
+   "tipo": "Apertura de plazo (BOE)",
+   "boletin": "BOE",
+   "referencia": "BOE-A-2026-19814",
+   "enlace": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-19814",
+   "plazas": [
+    {
+     "denominacion": "Técnico/a de Bienestar Social",
+     "numero": 1,
+     "escala": "",
+     "vinculo": "Laboral fijo",
+     "sistema": "concurso-oposición",
+     "turno": "libre",
+     "grupo": "Laboral",
+     "categoria": "Servicios sociales y educación"
+    }
+   ],
+   "plazo": {
+    "dias": 20,
+    "tipo": "hábiles",
+    "fin_estimado": "2026-10-22"
+   },
+   "referencias": [
+    {
+     "boletin": "BOP Jaén",
+     "numero": "161",
+     "fecha": "20 de agosto de 2026"
+    },
+    {
+     "boletin": "BOJA",
+     "numero": "180",
+     "fecha": "16 de septiembre de 2026"
+    }
+   ],
+   "resumen": "1 Técnico/a de Bienestar Social (concurso-oposición, libre)",
+   "titulo": "Resolución de 18 de septiembre de 2026, del Ayuntamiento de Mengíbar (Jaén), referente a la convocatoria para proveer una plaza."
+  },
+  {
+   "id": "BOE-A-2026-19796",
+   "fecha": "2026-09-24",
+   "provincia": "Granada",
+   "entidad": "Ayuntamiento de Granada, Agencia Municipal Tributaria",
+   "tipo": "Apertura de plazo (BOE)",
+   "boletin": "BOE",
+   "referencia": "BOE-A-2026-19796",
+   "enlace": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-19796",
+   "plazas": [
+    {
+     "denominacion": "Técnico/a Medio de Gestión",
+     "numero": 4,
+     "escala": "escala de Administración Especial, subescala Técnica y clase Media",
+     "vinculo": "Funcionario",
+     "sistema": "concurso-oposición",
+     "turno": "promoción interna",
+     "grupo": "A2",
+     "categoria": "Administración general"
+    },
+    {
+     "denominacion": "Técnico/a especialista administrativo",
+     "numero": 1,
+     "escala": "escala de Administración Especial, subescala Técnica y clase Cometidos especiales",
+     "vinculo": "Funcionario",
+     "sistema": "concurso-oposición",
+     "turno": "promoción interna",
+     "grupo": "—",
+     "categoria": "Administración general"
+    },
+    {
+     "denominacion": "Técnico/a Superior en Administración de Sistemas Informáticos",
+     "numero": 1,
+     "escala": "escala de Administración Especial, subescala Técnica y clase Superior",
+     "vinculo": "Funcionario",
+     "sistema": "concurso-oposición",
+     "turno": "promoción interna",
+     "grupo": "A1",
+     "categoria": "Técnicos"
+    },
+    {
+     "denominacion": "Técnico/a auxiliar de recaudación",
+     "numero": 19,
+     "escala": "escala de Administración Especial, subescala Técnica y clase Auxiliar",
+     "vinculo": "Funcionario",
+     "sistema": "concurso-oposición",
+     "turno": "promoción interna",
+     "grupo": "C2",
+     "categoria": "Técnicos"
+    }
+   ],
+   "plazo": {
+    "dias": 20,
+    "tipo": "naturales",
+    "fin_estimado": "2026-10-14"
+   },
+   "referencias": [
+    {
+     "boletin": "BOP Granada",
+     "numero": "115",
+     "fecha": "18 de junio de 2026"
+    },
+    {
+     "boletin": "BOJA",
+     "numero": "178",
+     "fecha": "14 de septiembre de 2026"
+    },
+    {
+     "boletin": "BOP Granada",
+     "numero": "134",
+     "fecha": "15 de julio de 2026"
+    }
+   ],
+   "resumen": "4 Técnico/a Medio de Gestión (concurso-oposición, promoción interna); 1 Técnico/a especialista administrativo (concurso-oposición, promoción interna); 1 Técnico/a Superior en Administración de Sistemas Informáticos (concurso-oposición, promoción interna); 19 Técnico/a auxiliar de recaudación (concurso-oposición, promoción interna)",
+   "titulo": "Resolución de 14 de septiembre de 2026, del Ayuntamiento de Granada, Agencia Municipal Tributaria (Granada), referente a la convocatoria para proveer varias plazas."
+  },
+  {
+   "id": "BOE-A-2026-19792",
+   "fecha": "2026-09-24",
+   "provincia": "Granada",
+   "entidad": "Ayuntamiento de Granada",
+   "tipo": "Apertura de plazo (BOE)",
+   "boletin": "BOE",
+   "referencia": "BOE-A-2026-19792",
+   "enlace": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-19792",
+   "plazas": [
+    {
+     "denominacion": "Subdirector/a General de Planeamiento, perteneciente a la escala de Administración General/Especial, subescala Técnica y clase Superior.",
+     "numero": null,
+     "escala": "",
+     "vinculo": "Funcionario (provisión de puestos)",
+     "sistema": "Libre designación",
+     "turno": "",
+     "grupo": "—",
+     "categoria": "Provisión de puestos"
+    }
+   ],
+   "plazo": {
+    "dias": 15,
+    "tipo": "hábiles",
+    "fin_estimado": "2026-10-15"
+   },
+   "referencias": [
+    {
+     "boletin": "BOP Granada",
+     "numero": "136",
+     "fecha": "17 de julio de 2026"
+    },
+    {
+     "boletin": "BOP Granada",
+     "numero": "179",
+     "fecha": "16 de septiembre de 2026"
+    }
+   ],
+   "resumen": "Subdirector/a General de Planeamiento, perteneciente a la escala de Administración General/Especial, subescala Técnica y clase Superior. (Libre designación)",
+   "titulo": "Resolución de 16 de septiembre de 2026, del Ayuntamiento de Granada, referente a la convocatoria para proveer puesto de trabajo por el sistema de libre designación."
+  },
+  {
+   "id": "BOE-A-2026-19811",
+   "fecha": "2026-09-24",
+   "provincia": "Almería",
+   "entidad": "Ayuntamiento de El Ejido",
+   "tipo": "Apertura de plazo (BOE)",
+   "boletin": "BOE",
+   "referencia": "BOE-A-2026-19811",
+   "enlace": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-19811",
+   "plazas": [
+    {
+     "denominacion": "Auxiliar Gestión",
+     "numero": 1,
+     "escala": "escala de Administración Especial, subescala Técnica y clase Auxiliar",
+     "vinculo": "Funcionario",
+     "sistema": "oposición",
+     "turno": "libre",
+     "grupo": "C2",
+     "categoria": "Administración general"
+    },
+    {
+     "denominacion": "Agente Verificador/a",
+     "numero": 1,
+     "escala": "escala de Administración Especial, subescala Servicios especiales y clase Cometidos especiales",
+     "vinculo": "Funcionario",
+     "sistema": "oposición",
+     "turno": "libre",
+     "grupo": "—",
+     "categoria": "Otros"
+    }
+   ],
+   "plazo": {
+    "dias": 20,
+    "tipo": "naturales",
+    "fin_estimado": "2026-10-14"
+   },
+   "referencias": [
+    {
+     "boletin": "BOP Almería",
+     "numero": "127",
+     "fecha": "6 de julio de 2026"
+    }
+   ],
+   "resumen": "1 Auxiliar Gestión (oposición, libre); 1 Agente Verificador/a (oposición, libre)",
+   "titulo": "Resolución de 17 de septiembre de 2026, del Ayuntamiento de El Ejido (Almería), referente a la convocatoria para proveer varias plazas."
+  },
+  {
+   "id": "BOE-A-2026-19741",
+   "fecha": "2026-09-23",
+   "provincia": "Sevilla",
+   "entidad": "Ayuntamiento de Bormujos",
+   "tipo": "Apertura de plazo (BOE)",
+   "boletin": "BOE",
+   "referencia": "BOE-A-2026-19741",
+   "enlace": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-19741",
+   "plazas": [
+    {
+     "denominacion": "Electricista Oficial de Primera",
+     "numero": 2,
+     "escala": "",
+     "vinculo": "Laboral fijo",
+     "sistema": "concurso-oposición",
+     "turno": "libre",
+     "grupo": "Laboral",
+     "categoria": "Oficios y servicios"
+    }
+   ],
+   "plazo": {
+    "dias": 20,
+    "tipo": "hábiles",
+    "fin_estimado": "2026-10-21"
+   },
+   "referencias": [
+    {
+     "boletin": "BOP Sevilla",
+     "numero": "156",
+     "fecha": "13 de agosto de 2026"
+    },
+    {
+     "boletin": "BOJA",
+     "numero": "178",
+     "fecha": "14 de septiembre de 2026"
+    }
+   ],
+   "resumen": "2 Electricista Oficial de Primera (concurso-oposición, libre)",
+   "titulo": "Resolución de 16 de septiembre de 2026, del Ayuntamiento de Bormujos (Sevilla), referente a la convocatoria para proveer varias plazas."
+  },
+  {
+   "id": "BOE-A-2026-19731",
+   "fecha": "2026-09-23",
+   "provincia": "Granada",
+   "entidad": "Diputación Provincial de Granada, Organismo Autónomo Agencia Provincial de Extinción de Incendios",
+   "tipo": "Apertura de plazo (BOE)",
+   "boletin": "BOE",
+   "referencia": "BOE-A-2026-19731",
+   "enlace": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-19731",
+   "plazas": [
+    {
+     "denominacion": "Administrativo/a",
+     "numero": 1,
+     "escala": "escala de Administración General, subescala Administrativa",
+     "vinculo": "Funcionario",
+     "sistema": "oposición",
+     "turno": "libre",
+     "grupo": "C1",
+     "categoria": "Administración general"
+    }
+   ],
+   "plazo": {
+    "dias": 10,
+    "tipo": "hábiles",
+    "fin_estimado": "2026-10-07"
+   },
+   "referencias": [
+    {
+     "boletin": "BOP Granada",
+     "numero": "177",
+     "fecha": "14 de septiembre de 2026"
+    }
+   ],
+   "resumen": "1 Administrativo/a (oposición, libre)",
+   "titulo": "Resolución de 15 de septiembre de 2026, de la Diputación Provincial de Granada, Organismo Autónomo Agencia Provincial de Extinción de Incendios, referente a la convocatoria para proveer una plaza."
+  },
+  {
+   "id": "BOE-A-2026-19655",
+   "fecha": "2026-09-22",
+   "provincia": "Málaga",
+   "entidad": "Diputación Provincial de Málaga",
+   "tipo": "Apertura de plazo (BOE)",
+   "boletin": "BOE",
+   "referencia": "BOE-A-2026-19655",
+   "enlace": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-19655",
+   "plazas": [
+    {
+     "denominacion": "Cuatro puestos de Jefe/a Sección I, pertenecientes a la escala de Administración General/Especial, varias subescalas. Un puesto de Responsable Gestión Administrativa de Recursos Humanos, perteneciente a la escala de Administración General, subescala Administrativa/Auxiliar. Un puesto de Responsable Gestión Plantilla y Relación de Puestos de Trabajos, perteneciente a la escala de Administración Gen",
+     "numero": null,
+     "escala": "",
+     "vinculo": "Funcionario (provisión de puestos)",
+     "sistema": "Concurso",
+     "turno": "",
+     "grupo": "—",
+     "categoria": "Provisión de puestos"
+    }
+   ],
+   "plazo": {
+    "dias": 10,
+    "tipo": "hábiles",
+    "fin_estimado": "2026-10-06"
+   },
+   "referencias": [
+    {
+     "boletin": "BOP Málaga",
+     "numero": "114",
+     "fecha": "16 de junio de 2026"
+    },
+    {
+     "boletin": "BOP Málaga",
+     "numero": "117",
+     "fecha": "19 de junio de 2026"
+    },
+    {
+     "boletin": "BOP Málaga",
+     "numero": "131",
+     "fecha": "9 de julio de 2026"
+    },
+    {
+     "boletin": "BOP Málaga",
+     "numero": "175",
+     "fecha": "11 de septiembre de 2026"
+    }
+   ],
+   "resumen": "Cuatro puestos de Jefe/a Sección I, pertenecientes a la escala de Administración General/Especial, varias subescalas. Un puesto de Responsable Gestión Administrativa de Recursos Humanos, perteneciente a la escala de Administración General, subescala Administrativa/Auxiliar. Un puesto de Responsable Gestión Plantilla y Relación de Puestos de Trabajos, perteneciente a la escala de Administración Gen (Concurso)",
+   "titulo": "Resolución de 15 de septiembre de 2026, de la Diputación Provincial de Málaga, referente a la convocatoria para proveer puestos de trabajo por el sistema de concurso."
+  },
+  {
+   "id": "BOE-A-2026-19662",
+   "fecha": "2026-09-22",
+   "provincia": "Málaga",
+   "entidad": "Ayuntamiento de Mijas",
+   "tipo": "Apertura de plazo (BOE)",
+   "boletin": "BOE",
+   "referencia": "BOE-A-2026-19662",
+   "enlace": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-19662",
+   "plazas": [
+    {
+     "denominacion": "Ingeniero/a Técnico/a de Obras Públicas",
+     "numero": 1,
+     "escala": "escala de Administración Especial, subescala Técnica y clase Media",
+     "vinculo": "Funcionario",
+     "sistema": "oposición",
+     "turno": "libre",
+     "grupo": "A2",
+     "categoria": "Técnicos"
+    }
+   ],
+   "plazo": {
+    "dias": 10,
+    "tipo": "hábiles",
+    "fin_estimado": "2026-10-06"
+   },
+   "referencias": [
+    {
+     "boletin": "BOP Málaga",
+     "numero": "40",
+     "fecha": "27 de febrero de 2026"
+    },
+    {
+     "boletin": "BOJA",
+     "numero": "172",
+     "fecha": "4 de septiembre de 2026"
+    }
+   ],
+   "resumen": "1 Ingeniero/a Técnico/a de Obras Públicas (oposición, libre)",
+   "titulo": "Resolución de 14 de septiembre de 2026, del Ayuntamiento de Mijas (Málaga), referente a la convocatoria para proveer una plaza."
+  },
+  {
+   "id": "BOE-A-2026-19669",
+   "fecha": "2026-09-22",
+   "provincia": "Málaga",
+   "entidad": "Ayuntamiento de Benamargosa",
+   "tipo": "Apertura de plazo (BOE)",
+   "boletin": "BOE",
+   "referencia": "BOE-A-2026-19669",
+   "enlace": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-19669",
+   "plazas": [
+    {
+     "denominacion": "Oficial de Servicios Múltiples",
+     "numero": 1,
+     "escala": "",
+     "vinculo": "Laboral fijo",
+     "sistema": "concurso",
+     "turno": "libre",
+     "grupo": "Laboral",
+     "categoria": "Oficios y servicios"
+    }
+   ],
+   "plazo": {
+    "dias": 20,
+    "tipo": "hábiles",
+    "fin_estimado": "2026-10-20"
+   },
+   "referencias": [
+    {
+     "boletin": "BOP Málaga",
+     "numero": "163",
+     "fecha": "25 de agosto de 2026"
+    }
+   ],
+   "resumen": "1 Oficial de Servicios Múltiples (concurso, libre)",
+   "titulo": "Resolución de 15 de septiembre de 2026, del Ayuntamiento de Benamargosa (Málaga), referente a la convocatoria para proveer una plaza."
+  },
+  {
+   "id": "BOE-A-2026-19668",
+   "fecha": "2026-09-22",
+   "provincia": "Cádiz",
+   "entidad": "Ayuntamiento de Algeciras",
+   "tipo": "Apertura de plazo (BOE)",
+   "boletin": "BOE",
+   "referencia": "BOE-A-2026-19668",
+   "enlace": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-19668",
+   "plazas": [
+    {
+     "denominacion": "Licenciado/a en Derecho",
+     "numero": 3,
+     "escala": "escala de Administración General, subescala Técnica y clase Superior",
+     "vinculo": "Funcionario",
+     "sistema": "oposición",
+     "turno": "libre",
+     "grupo": "A1",
+     "categoria": "Administración general"
+    }
+   ],
+   "plazo": {
+    "dias": 20,
+    "tipo": "hábiles",
+    "fin_estimado": "2026-10-20"
+   },
+   "referencias": [
+    {
+     "boletin": "BOP Cádiz",
+     "numero": "105",
+     "fecha": "4 de junio de 2026"
+    },
+    {
+     "boletin": "BOJA",
+     "numero": "152",
+     "fecha": "7 de agosto de 2026"
+    }
+   ],
+   "resumen": "3 Licenciado/a en Derecho (oposición, libre)",
+   "titulo": "Resolución de 15 de septiembre de 2026, del Ayuntamiento de Algeciras (Cádiz), referente a la convocatoria para proveer varias plazas."
+  }
+ ],
+ "ejecuciones": [
+  {
+   "fecha": "2026-10-05",
+   "nota": "Carga inicial: anuncios del BOE (Administración Local de Andalucía) del 21-09-2026 al 05-10-2026. Los BOP y el BOJA se incorporan desde la primera ejecución diaria."
+  },
+  {
+   "fecha": "2026-10-06",
+   "nota": "Ejecución manual (23:58): sin anuncios nuevos respecto a la ejecución de las 8:00. BOE sin novedades. BOP Jaén sigue inaccesible (error 500)."
+  }
+ ]
+}
