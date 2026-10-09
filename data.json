@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-09T12:02",
+ "actualizado": "2026-10-09T12:58",
  "anuncios": [
   {
    "id": "BOP-SE-2026-197016",
@@ -654,7 +654,7 @@
    "plazo": null
   },
   {
-   "id": "BOP-HU-380672-378972",
+   "id": "BOP-HU-378972",
    "fecha": "2026-10-09",
    "provincia": "Huelva",
    "entidad": "Ayuntamiento de Almonaster la Real",
@@ -666,16 +666,18 @@
     {
      "denominacion": "Monitor Dinamizador de Turismo y Patrimonio Histórico Artístico",
      "numero": 1,
-     "grupo": "—",
-     "sistema": "—",
-     "turno": "—",
+     "grupo": "C1",
+     "sistema": "concurso-oposición",
+     "turno": "libre",
      "vinculo": "—",
      "categoria": "—"
     }
    ],
    "resumen": "Aprobación de las bases de la convocatoria",
    "referencias": [],
-   "plazo": null
+   "plazo": null,
+   "plazo_texto": "20 días hábiles (según el texto)",
+   "texto_leido": true
   },
   {
    "id": "BOP-GRA-2026-196031",
@@ -699,7 +701,8 @@
    ],
    "resumen": "Relación definitiva de admitidos y designación del tribunal (OEP 2026)",
    "referencias": [],
-   "plazo": null
+   "plazo": null,
+   "texto_leido": true
   },
   {
    "id": "BOJA-2026-197-89",
@@ -773,7 +776,8 @@
    ],
    "resumen": "Rectificación de bases de la convocatoria",
    "referencias": [],
-   "plazo": null
+   "plazo": null,
+   "texto_leido": true
   },
   {
    "id": "BOP-GRA-2026-196017",
@@ -788,7 +792,7 @@
     {
      "denominacion": "Asesor/a Jurídico",
      "numero": 1,
-     "grupo": "—",
+     "grupo": "A1",
      "sistema": "oposición",
      "turno": "libre",
      "vinculo": "—",
@@ -797,7 +801,8 @@
    ],
    "resumen": "Listado provisional de admitidos y excluidos",
    "referencias": [],
-   "plazo": null
+   "plazo": null,
+   "texto_leido": true
   },
   {
    "id": "BOP-GRA-2026-196016",
@@ -821,7 +826,8 @@
    ],
    "resumen": "Aprobación definitiva de admitidos y excluidos a la bolsa",
    "referencias": [],
-   "plazo": null
+   "plazo": null,
+   "texto_leido": true
   },
   {
    "id": "BOP-A-2026-3397",
@@ -882,7 +888,7 @@
    "tipo": "Lista definitiva, tribunal y fecha",
    "boletin": "BOP Almería",
    "referencia": "BOP nº 196/2026 · Edicto 2746-2026",
-   "enlace": "https://app.dipalme.org/bop/publico.zul",
+   "enlace": "https://app.dipalme.org/bop/services/manager/edicto/2026/2746/anuncio.pdf",
    "plazas": [
     {
      "denominacion": "Ingeniero/a de Mantenimiento",
@@ -894,9 +900,10 @@
      "categoria": "—"
     }
    ],
-   "resumen": "Relación definitiva, designación del tribunal y fecha de celebración (buscar por nº de edicto en el portal)",
+   "resumen": "Relación definitiva, designación del tribunal y fecha de celebración",
    "referencias": [],
-   "plazo": null
+   "plazo": null,
+   "texto_leido": true
   },
   {
    "id": "BOP-AL-2744-2026",
@@ -906,7 +913,7 @@
    "tipo": "Lista definitiva, tribunal y fecha",
    "boletin": "BOP Almería",
    "referencia": "BOP nº 196/2026 · Edicto 2744-2026",
-   "enlace": "https://app.dipalme.org/bop/publico.zul",
+   "enlace": "https://app.dipalme.org/bop/services/manager/edicto/2026/2744/anuncio.pdf",
    "plazas": [
     {
      "denominacion": "Médico/a",
@@ -918,9 +925,10 @@
      "categoria": "—"
     }
    ],
-   "resumen": "Relación definitiva, designación del tribunal y fecha de celebración (buscar por nº de edicto en el portal)",
+   "resumen": "Relación definitiva, designación del tribunal y fecha de celebración",
    "referencias": [],
-   "plazo": null
+   "plazo": null,
+   "texto_leido": true
   },
   {
    "id": "BOP-AL-2724-2026",
@@ -930,7 +938,7 @@
    "tipo": "Modificación de fecha de ejercicio",
    "boletin": "BOP Almería",
    "referencia": "BOP nº 196/2026 · Edicto 2724-2026",
-   "enlace": "https://app.dipalme.org/bop/publico.zul",
+   "enlace": "https://app.dipalme.org/bop/services/manager/edicto/2026/2724/anuncio.pdf",
    "plazas": [
     {
      "denominacion": "Gestor/a Administrativo/a Especializado/a",
@@ -951,9 +959,10 @@
      "categoria": "—"
     }
    ],
-   "resumen": "Modificación de la fecha del ejercicio práctico (buscar por nº de edicto en el portal)",
+   "resumen": "Modificación de la fecha del ejercicio práctico",
    "referencias": [],
-   "plazo": null
+   "plazo": null,
+   "texto_leido": true
   },
   {
    "id": "BOP-AL-2723-2026",
@@ -963,7 +972,7 @@
    "tipo": "Rectificación (fecha de pruebas)",
    "boletin": "BOP Almería",
    "referencia": "BOP nº 196/2026 · Edicto 2723-2026",
-   "enlace": "https://app.dipalme.org/bop/publico.zul",
+   "enlace": "https://app.dipalme.org/bop/services/manager/edicto/2026/2723/anuncio.pdf",
    "plazas": [
     {
      "denominacion": "Técnico de Administración General",
@@ -975,9 +984,10 @@
      "categoria": "Administración general"
     }
    ],
-   "resumen": "Rectificación de error en la resolución sobre las pruebas de la fase de oposición (buscar por nº de edicto en el portal)",
+   "resumen": "Rectificación de error en la resolución sobre las pruebas de la fase de oposición",
    "referencias": [],
-   "plazo": null
+   "plazo": null,
+   "texto_leido": true
   },
   {
    "id": "BOP-AL-2734-2026",
@@ -987,7 +997,7 @@
    "tipo": "Nombramiento",
    "boletin": "BOP Almería",
    "referencia": "BOP nº 196/2026 · Edicto 2734-2026",
-   "enlace": "https://app.dipalme.org/bop/publico.zul",
+   "enlace": "https://app.dipalme.org/bop/services/manager/edicto/2026/2734/anuncio.pdf",
    "plazas": [
     {
      "denominacion": "Auxiliar de Administración General",
@@ -999,9 +1009,10 @@
      "categoria": "Administración general"
     }
    ],
-   "resumen": "Nombramiento como funcionaria de carrera (buscar por nº de edicto en el portal)",
+   "resumen": "Nombramiento como funcionaria de carrera",
    "referencias": [],
-   "plazo": null
+   "plazo": null,
+   "texto_leido": true
   },
   {
    "id": "BOP-SE-2026-196001",
@@ -1386,6 +1397,56 @@
    "texto_leido": true
   },
   {
+   "id": "BOP-HU-378382",
+   "fecha": "2026-10-08",
+   "provincia": "Huelva",
+   "entidad": "Ayuntamiento de Villarrasa",
+   "tipo": "Lista provisional",
+   "boletin": "BOP Huelva",
+   "referencia": "BOP nº 194 · Anuncio 378382",
+   "enlace": "https://s2.diphuelva.es/portalweb/bope/anuncios/Anuncio_378382_BOP-194_2026.pdf",
+   "plazas": [
+    {
+     "denominacion": "Arquitecto",
+     "numero": 1,
+     "grupo": "A1",
+     "sistema": "—",
+     "turno": "—",
+     "vinculo": "—",
+     "categoria": "—"
+    }
+   ],
+   "resumen": "Lista provisional de admitidos y excluidos",
+   "referencias": [],
+   "plazo": null,
+   "texto_leido": true
+  },
+  {
+   "id": "BOP-HU-378052",
+   "fecha": "2026-10-08",
+   "provincia": "Huelva",
+   "entidad": "Ayuntamiento de Puebla de Guzmán",
+   "tipo": "Rectificación de bases",
+   "boletin": "BOP Huelva",
+   "referencia": "BOP nº 194 · Anuncio 378052",
+   "enlace": "https://s2.diphuelva.es/portalweb/bope/anuncios/Anuncio_378052_BOP-194_2026.pdf",
+   "plazas": [
+    {
+     "denominacion": "Personal funcionario (OEP 2025, reserva discapacidad)",
+     "numero": "—",
+     "grupo": "—",
+     "sistema": "—",
+     "turno": "—",
+     "vinculo": "—",
+     "categoria": "—"
+    }
+   ],
+   "resumen": "Rectificación de error material de las bases",
+   "referencias": [],
+   "plazo": null,
+   "texto_leido": true
+  },
+  {
    "id": "BOP-GRA-2026-195003",
    "fecha": "2026-10-08",
    "provincia": "Granada",
@@ -1407,7 +1468,8 @@
    ],
    "resumen": "Resolución parcial de adjudicación de puestos",
    "referencias": [],
-   "plazo": null
+   "plazo": null,
+   "texto_leido": true
   },
   {
    "id": "BOP-GRA-2026-195024",
@@ -1431,7 +1493,8 @@
    ],
    "resumen": "Nombramiento de personal funcionario",
    "referencias": [],
-   "plazo": null
+   "plazo": null,
+   "texto_leido": true
   },
   {
    "id": "BOP-GRA-2026-195025",
@@ -1455,7 +1518,8 @@
    ],
    "resumen": "Nombramiento de personal funcionario",
    "referencias": [],
-   "plazo": null
+   "plazo": null,
+   "texto_leido": true
   },
   {
    "id": "BOP-GRA-2026-195023",
@@ -1470,16 +1534,17 @@
     {
      "denominacion": "Administrativo (escala administrativa)",
      "numero": 2,
-     "grupo": "—",
-     "sistema": "—",
-     "turno": "—",
+     "grupo": "C1",
+     "sistema": "oposición",
+     "turno": "libre",
      "vinculo": "Funcionario de carrera",
      "categoria": "Administración general"
     }
    ],
    "resumen": "Relación provisional de admitidos y excluidos",
    "referencias": [],
-   "plazo": null
+   "plazo": null,
+   "texto_leido": true
   },
   {
    "id": "BOP-GRA-2026-195019",
@@ -1494,7 +1559,7 @@
     {
      "denominacion": "Personal funcionario interino",
      "numero": "—",
-     "grupo": "—",
+     "grupo": "A2",
      "sistema": "—",
      "turno": "—",
      "vinculo": "Funcionario interino",
@@ -1503,7 +1568,8 @@
    ],
    "resumen": "Nombramiento de personal funcionario interino",
    "referencias": [],
-   "plazo": null
+   "plazo": null,
+   "texto_leido": true
   },
   {
    "id": "BOP-GRA-2026-195018",
@@ -1518,7 +1584,7 @@
     {
      "denominacion": "Auxiliar de Ayuda a Domicilio",
      "numero": "—",
-     "grupo": "—",
+     "grupo": "C2",
      "sistema": "concurso-oposición",
      "turno": "—",
      "vinculo": "—",
@@ -1527,7 +1593,8 @@
    ],
    "resumen": "Lista provisional de admitidos y excluidos",
    "referencias": [],
-   "plazo": null
+   "plazo": null,
+   "texto_leido": true
   },
   {
    "id": "BOP-GRA-2026-195015",
@@ -1542,8 +1609,8 @@
     {
      "denominacion": "Oficial de Carpintería",
      "numero": 1,
-     "grupo": "—",
-     "sistema": "—",
+     "grupo": "C2",
+     "sistema": "concurso-oposición",
      "turno": "promoción interna",
      "vinculo": "—",
      "categoria": "—"
@@ -1551,7 +1618,8 @@
    ],
    "resumen": "Listado provisional de admitidos y excluidos",
    "referencias": [],
-   "plazo": null
+   "plazo": null,
+   "texto_leido": true
   },
   {
    "id": "BOP-A-2026-3276",
@@ -1800,7 +1868,7 @@
    "tipo": "Lista definitiva",
    "boletin": "BOP Almería",
    "referencia": "BOP nº 195/2026 · Edicto 2726-2026",
-   "enlace": "https://app.dipalme.org/bop/publico.zul",
+   "enlace": "https://app.dipalme.org/bop/services/manager/edicto/2026/2726/anuncio.pdf",
    "plazas": [
     {
      "denominacion": "Trabajador/a Social",
@@ -1812,9 +1880,10 @@
      "categoria": "—"
     }
    ],
-   "resumen": "Relación definitiva de admitidos/as y excluidos/as (buscar por nº de edicto en el portal)",
+   "resumen": "Relación definitiva de admitidos/as y excluidos/as",
    "referencias": [],
-   "plazo": null
+   "plazo": null,
+   "texto_leido": true
   },
   {
    "id": "BOP-AL-2714-2026",
@@ -1824,7 +1893,7 @@
    "tipo": "Lista provisional",
    "boletin": "BOP Almería",
    "referencia": "BOP nº 195/2026 · Edicto 2714-2026",
-   "enlace": "https://app.dipalme.org/bop/publico.zul",
+   "enlace": "https://app.dipalme.org/bop/services/manager/edicto/2026/2714/anuncio.pdf",
    "plazas": [
     {
      "denominacion": "Auxiliar de Servicios Académicos y Personal de Administración y Servicios",
@@ -1836,9 +1905,10 @@
      "categoria": "—"
     }
    ],
-   "resumen": "Relación provisional de admitidos/as y excluidos/as (buscar por nº de edicto en el portal)",
+   "resumen": "Relación provisional de admitidos/as y excluidos/as",
    "referencias": [],
-   "plazo": null
+   "plazo": null,
+   "texto_leido": true
   },
   {
    "id": "BOJA-2026-196-65",
@@ -1873,7 +1943,7 @@
    "tipo": "Bases y convocatoria (bolsa)",
    "boletin": "BOP Almería",
    "referencia": "BOP nº 195/2026 · Edicto 2717-2026",
-   "enlace": "https://app.dipalme.org/bop/publico.zul",
+   "enlace": "https://app.dipalme.org/bop/services/manager/edicto/2026/2717/anuncio.pdf",
    "plazas": [
     {
      "denominacion": "Monitor/a de Guardería (bolsa)",
@@ -1885,9 +1955,10 @@
      "categoria": "—"
     }
    ],
-   "resumen": "Bases y convocatoria de bolsa de empleo (buscar por nº de edicto en el portal)",
+   "resumen": "Bases y convocatoria de bolsa de empleo",
    "referencias": [],
-   "plazo": null
+   "plazo": null,
+   "texto_leido": true
   },
   {
    "id": "BOP-SE-2026-195016",
@@ -2224,7 +2295,8 @@
    ],
    "resumen": "Bases (OEP 2023)",
    "referencias": [],
-   "plazo": null
+   "plazo": null,
+   "texto_leido": true
   },
   {
    "id": "BOP-GRA-2026-194027",
@@ -2240,15 +2312,17 @@
      "denominacion": "Auxiliar de Ayuda a Domicilio",
      "numero": 55,
      "grupo": "Laboral",
-     "sistema": "—",
-     "turno": "—",
+     "sistema": "oposición",
+     "turno": "libre",
      "vinculo": "Laboral fijo (tiempo parcial)",
      "categoria": "Servicios sociales y educación"
     }
    ],
    "resumen": "Bases y convocatoria",
    "referencias": [],
-   "plazo": null
+   "plazo": null,
+   "plazo_texto": "20 días hábiles (según el texto)",
+   "texto_leido": true
   },
   {
    "id": "BOP-GRA-2026-194014",
@@ -2263,8 +2337,8 @@
     {
      "denominacion": "Vacante PSCIM01",
      "numero": 1,
-     "grupo": "—",
-     "sistema": "—",
+     "grupo": "A1",
+     "sistema": "concurso-oposición",
      "turno": "—",
      "vinculo": "—",
      "categoria": "—"
@@ -2272,7 +2346,8 @@
    ],
    "resumen": "Listado definitivo, tribunal y primer examen",
    "referencias": [],
-   "plazo": null
+   "plazo": null,
+   "texto_leido": true
   },
   {
    "id": "BOP-GRA-2026-194012",
@@ -2288,7 +2363,7 @@
      "denominacion": "Técnico de Gestión",
      "numero": 1,
      "grupo": "—",
-     "sistema": "—",
+     "sistema": "concurso-oposición",
      "turno": "promoción interna",
      "vinculo": "Funcionario",
      "categoria": "—"
@@ -2296,7 +2371,8 @@
    ],
    "resumen": "Nombramiento de funcionario",
    "referencias": [],
-   "plazo": null
+   "plazo": null,
+   "texto_leido": true
   },
   {
    "id": "BOP-GRA-2026-194013",
@@ -2320,7 +2396,8 @@
    ],
    "resumen": "Lista definitiva de admitidos",
    "referencias": [],
-   "plazo": null
+   "plazo": null,
+   "texto_leido": true
   },
   {
    "id": "BOP-GRA-2026-194006",
@@ -2335,7 +2412,7 @@
     {
      "denominacion": "Técnico Informático (bolsa)",
      "numero": "—",
-     "grupo": "—",
+     "grupo": "C1",
      "sistema": "—",
      "turno": "—",
      "vinculo": "—",
@@ -2344,7 +2421,8 @@
    ],
    "resumen": "Rectificación de bases y reapertura del plazo de solicitudes",
    "referencias": [],
-   "plazo": null
+   "plazo": null,
+   "texto_leido": true
   },
   {
    "id": "BOP-GRA-2026-194007",
@@ -2368,7 +2446,8 @@
    ],
    "resumen": "Bases de selección de bolsa de TAG",
    "referencias": [],
-   "plazo": null
+   "plazo": null,
+   "texto_leido": true
   },
   {
    "id": "BOP-A-2026-3367",
@@ -2529,7 +2608,7 @@
    "tipo": "Lista definitiva",
    "boletin": "BOP Almería",
    "referencia": "BOP nº 194/2026 · Edicto 2699-2026",
-   "enlace": "https://app.dipalme.org/bop/publico.zul",
+   "enlace": "https://app.dipalme.org/bop/services/manager/edicto/2026/2699/anuncio.pdf",
    "plazas": [
     {
      "denominacion": "Técnico/a de Gestión de Programas y Proyectos de Artes Audiovisuales",
@@ -2541,9 +2620,10 @@
      "categoria": "—"
     }
    ],
-   "resumen": "Relación definitiva de admitidos/as y excluidos/as (buscar por nº de edicto en el portal)",
+   "resumen": "Relación definitiva de admitidos/as y excluidos/as",
    "referencias": [],
-   "plazo": null
+   "plazo": null,
+   "texto_leido": true
   },
   {
    "id": "BOP-AL-2698-2026",
@@ -2553,7 +2633,7 @@
    "tipo": "Lista provisional",
    "boletin": "BOP Almería",
    "referencia": "BOP nº 194/2026 · Edicto 2698-2026",
-   "enlace": "https://app.dipalme.org/bop/publico.zul",
+   "enlace": "https://app.dipalme.org/bop/services/manager/edicto/2026/2698/anuncio.pdf",
    "plazas": [
     {
      "denominacion": "Auxiliar de Administración General",
@@ -2565,9 +2645,10 @@
      "categoria": "Administración general"
     }
    ],
-   "resumen": "Relación provisional de admitidos/as y excluidos/as (buscar por nº de edicto en el portal)",
+   "resumen": "Relación provisional de admitidos/as y excluidos/as",
    "referencias": [],
-   "plazo": null
+   "plazo": null,
+   "texto_leido": true
   },
   {
    "id": "BOP-AL-2697-2026",
@@ -2577,7 +2658,7 @@
    "tipo": "Lista provisional",
    "boletin": "BOP Almería",
    "referencia": "BOP nº 194/2026 · Edicto 2697-2026",
-   "enlace": "https://app.dipalme.org/bop/publico.zul",
+   "enlace": "https://app.dipalme.org/bop/services/manager/edicto/2026/2697/anuncio.pdf",
    "plazas": [
     {
      "denominacion": "Psicólogo/a",
@@ -2589,9 +2670,10 @@
      "categoria": "—"
     }
    ],
-   "resumen": "Relación provisional de admitidos/as y excluidos/as (buscar por nº de edicto en el portal)",
+   "resumen": "Relación provisional de admitidos/as y excluidos/as",
    "referencias": [],
-   "plazo": null
+   "plazo": null,
+   "texto_leido": true
   },
   {
    "id": "BOP-AL-2696-2026",
@@ -2601,7 +2683,7 @@
    "tipo": "Lista provisional",
    "boletin": "BOP Almería",
    "referencia": "BOP nº 194/2026 · Edicto 2696-2026",
-   "enlace": "https://app.dipalme.org/bop/publico.zul",
+   "enlace": "https://app.dipalme.org/bop/services/manager/edicto/2026/2696/anuncio.pdf",
    "plazas": [
     {
      "denominacion": "Auxiliar de Formación Universitaria e Informática",
@@ -2613,9 +2695,10 @@
      "categoria": "—"
     }
    ],
-   "resumen": "Relación provisional de admitidos/as y excluidos/as (buscar por nº de edicto en el portal)",
+   "resumen": "Relación provisional de admitidos/as y excluidos/as",
    "referencias": [],
-   "plazo": null
+   "plazo": null,
+   "texto_leido": true
   },
   {
    "id": "BOP-AL-2695-2026",
@@ -2625,7 +2708,7 @@
    "tipo": "Lista provisional",
    "boletin": "BOP Almería",
    "referencia": "BOP nº 194/2026 · Edicto 2695-2026",
-   "enlace": "https://app.dipalme.org/bop/publico.zul",
+   "enlace": "https://app.dipalme.org/bop/services/manager/edicto/2026/2695/anuncio.pdf",
    "plazas": [
     {
      "denominacion": "Auxiliar de Enfermería",
@@ -2637,9 +2720,10 @@
      "categoria": "—"
     }
    ],
-   "resumen": "Relación provisional de admitidos/as y excluidos/as (buscar por nº de edicto en el portal)",
+   "resumen": "Relación provisional de admitidos/as y excluidos/as",
    "referencias": [],
-   "plazo": null
+   "plazo": null,
+   "texto_leido": true
   },
   {
    "id": "BOP-AL-2694-2026",
@@ -2649,7 +2733,7 @@
    "tipo": "Lista provisional",
    "boletin": "BOP Almería",
    "referencia": "BOP nº 194/2026 · Edicto 2694-2026",
-   "enlace": "https://app.dipalme.org/bop/publico.zul",
+   "enlace": "https://app.dipalme.org/bop/services/manager/edicto/2026/2694/anuncio.pdf",
    "plazas": [
     {
      "denominacion": "Administrativo/a",
@@ -2661,9 +2745,10 @@
      "categoria": "Administración general"
     }
    ],
-   "resumen": "Relación provisional de admitidos/as y excluidos/as (buscar por nº de edicto en el portal)",
+   "resumen": "Relación provisional de admitidos/as y excluidos/as",
    "referencias": [],
-   "plazo": null
+   "plazo": null,
+   "texto_leido": true
   },
   {
    "id": "BOP-AL-2692-2026",
@@ -2673,7 +2758,7 @@
    "tipo": "Lista provisional",
    "boletin": "BOP Almería",
    "referencia": "BOP nº 194/2026 · Edicto 2692-2026",
-   "enlace": "https://app.dipalme.org/bop/publico.zul",
+   "enlace": "https://app.dipalme.org/bop/services/manager/edicto/2026/2692/anuncio.pdf",
    "plazas": [
     {
      "denominacion": "Portero",
@@ -2685,9 +2770,10 @@
      "categoria": "—"
     }
    ],
-   "resumen": "Relación provisional de admitidos/as y excluidos/as (buscar por nº de edicto en el portal)",
+   "resumen": "Relación provisional de admitidos/as y excluidos/as",
    "referencias": [],
-   "plazo": null
+   "plazo": null,
+   "texto_leido": true
   },
   {
    "id": "BOP-AL-2690-2026",
@@ -2697,7 +2783,7 @@
    "tipo": "Lista definitiva",
    "boletin": "BOP Almería",
    "referencia": "BOP nº 194/2026 · Edicto 2690-2026",
-   "enlace": "https://app.dipalme.org/bop/publico.zul",
+   "enlace": "https://app.dipalme.org/bop/services/manager/edicto/2026/2690/anuncio.pdf",
    "plazas": [
     {
      "denominacion": "Técnico/a en Coordinación de Protección Civil",
@@ -2709,9 +2795,10 @@
      "categoria": "—"
     }
    ],
-   "resumen": "Relación definitiva de admitidos/as y excluidos/as (buscar por nº de edicto en el portal)",
+   "resumen": "Relación definitiva de admitidos/as y excluidos/as",
    "referencias": [],
-   "plazo": null
+   "plazo": null,
+   "texto_leido": true
   },
   {
    "id": "BOP-AL-2730-2026",
@@ -2721,21 +2808,22 @@
    "tipo": "Lista definitiva",
    "boletin": "BOP Almería",
    "referencia": "BOP nº 194/2026 · Edicto 2730-2026",
-   "enlace": "https://app.dipalme.org/bop/publico.zul",
+   "enlace": "https://app.dipalme.org/bop/services/manager/edicto/2026/2730/anuncio.pdf",
    "plazas": [
     {
      "denominacion": "TAE Gestión Económica",
      "numero": 1,
-     "grupo": "—",
+     "grupo": "A1",
      "sistema": "concurso-oposición",
      "turno": "promoción interna",
      "vinculo": "Funcionario",
      "categoria": "—"
     }
    ],
-   "resumen": "Listado definitivo de admitidos y excluidos (buscar por nº de edicto en el portal)",
+   "resumen": "Listado definitivo de admitidos y excluidos",
    "referencias": [],
-   "plazo": null
+   "plazo": null,
+   "texto_leido": true
   },
   {
    "id": "BOP-AL-2584-2026",
@@ -2745,7 +2833,7 @@
    "tipo": "Lista provisional y tribunal",
    "boletin": "BOP Almería",
    "referencia": "BOP nº 194/2026 · Edicto 2584-2026",
-   "enlace": "https://app.dipalme.org/bop/publico.zul",
+   "enlace": "https://app.dipalme.org/bop/services/manager/edicto/2026/2584/anuncio.pdf",
    "plazas": [
     {
      "denominacion": "Peón de Oficios Varios",
@@ -2757,9 +2845,10 @@
      "categoria": "—"
     }
    ],
-   "resumen": "Relación provisional de admitidos y excluidos y designación del tribunal (buscar por nº de edicto en el portal)",
+   "resumen": "Relación provisional de admitidos y excluidos y designación del tribunal",
    "referencias": [],
-   "plazo": null
+   "plazo": null,
+   "texto_leido": true
   },
   {
    "id": "BOP-AL-2582-2026",
@@ -2769,7 +2858,7 @@
    "tipo": "Bases y convocatoria",
    "boletin": "BOP Almería",
    "referencia": "BOP nº 194/2026 · Edicto 2582-2026",
-   "enlace": "https://app.dipalme.org/bop/publico.zul",
+   "enlace": "https://app.dipalme.org/bop/services/manager/edicto/2026/2582/anuncio.pdf",
    "plazas": [
     {
      "denominacion": "Técnico Superior Integración Social",
@@ -2781,9 +2870,10 @@
      "categoria": "—"
     }
    ],
-   "resumen": "Bases para proveer por concurso-oposición (buscar por nº de edicto en el portal)",
+   "resumen": "Bases para proveer por concurso-oposición",
    "referencias": [],
-   "plazo": null
+   "plazo": null,
+   "texto_leido": true
   },
   {
    "id": "BOP-SE-2026-194035",
@@ -2799,7 +2889,7 @@
      "denominacion": "Conductor-Mantenimiento (recogida de residuos)",
      "numero": 1,
      "grupo": "Laboral",
-     "sistema": "—",
+     "sistema": "concurso",
      "turno": "promoción interna",
      "vinculo": "Laboral fijo",
      "categoria": "Oficios y servicios"
@@ -2807,7 +2897,8 @@
    ],
    "plazo": null,
    "resumen": "Bases de la convocatoria (OEP 2025)",
-   "referencias": []
+   "referencias": [],
+   "texto_leido": true
   },
   {
    "id": "BOP-SE-2026-194001",
@@ -2831,7 +2922,8 @@
    ],
    "plazo": null,
    "resumen": "Bases y convocatoria para la provisión por libre designación",
-   "referencias": []
+   "referencias": [],
+   "texto_leido": true
   },
   {
    "id": "BOP-SE-2026-194002",
@@ -2855,7 +2947,8 @@
    ],
    "plazo": null,
    "resumen": "Resolución de recusación de miembros del tribunal y denegación de suspensión del proceso (OEP 2024)",
-   "referencias": []
+   "referencias": [],
+   "texto_leido": true
   },
   {
    "id": "BOJA-2026-194-57",
@@ -2879,7 +2972,9 @@
    ],
    "plazo": null,
    "resumen": "Proceso selectivo de dos plazas de Administrativo por promoción interna",
-   "referencias": []
+   "referencias": [],
+   "plazo_texto": "20 días hábiles (según el texto)",
+   "texto_leido": true
   },
   {
    "id": "BOP-SE-2026-194022",
@@ -2903,7 +2998,8 @@
    ],
    "plazo": null,
    "resumen": "Fecha de comienzo de las pruebas (OEP 2021)",
-   "referencias": []
+   "referencias": [],
+   "texto_leido": true
   },
   {
    "id": "BOP-SE-2026-194018",
@@ -2927,7 +3023,8 @@
    ],
    "plazo": null,
    "resumen": "Lista definitiva de admitidos y excluidos y composición del tribunal (OEP 2023)",
-   "referencias": []
+   "referencias": [],
+   "texto_leido": true
   },
   {
    "id": "BOP-SE-2026-194011",
@@ -2951,7 +3048,8 @@
    ],
    "plazo": null,
    "resumen": "Composición de la bolsa de trabajo para nombramiento como funcionario interino",
-   "referencias": []
+   "referencias": [],
+   "texto_leido": true
   },
   {
    "id": "BOP-SE-2026-194007",
@@ -2967,15 +3065,16 @@
      "denominacion": "Auxiliar Administrativo (Área de Contratación)",
      "numero": 1,
      "grupo": "C2",
-     "sistema": "—",
-     "turno": "—",
+     "sistema": "oposición",
+     "turno": "libre",
      "vinculo": "Interino",
      "categoria": "Administración general"
     }
    ],
    "plazo": null,
    "resumen": "Nombramiento de funcionaria interina",
-   "referencias": []
+   "referencias": [],
+   "texto_leido": true
   },
   {
    "id": "BOP-SE-2026-194003",
@@ -2990,8 +3089,8 @@
     {
      "denominacion": "Puesto de la Unidad de Dinamización Social y Comunitaria",
      "numero": 1,
-     "grupo": "—",
-     "sistema": "—",
+     "grupo": "A2",
+     "sistema": "concurso",
      "turno": "—",
      "vinculo": "Funcionario (provisión de puestos)",
      "categoria": "Provisión de puestos"
@@ -2999,7 +3098,8 @@
    ],
    "plazo": null,
    "resumen": "Bases de la convocatoria para la provisión del puesto",
-   "referencias": []
+   "referencias": [],
+   "texto_leido": true
   },
   {
    "id": "BOE-A-2026-20779",
@@ -3040,7 +3140,8 @@
     }
    ],
    "resumen": "1 Jardinero/a (oposición, libre)",
-   "titulo": "Resolución de 1 de octubre de 2026, del Ayuntamiento de Teba (Málaga), referente a la convocatoria para proveer una plaza."
+   "titulo": "Resolución de 1 de octubre de 2026, del Ayuntamiento de Teba (Málaga), referente a la convocatoria para proveer una plaza.",
+   "texto_leido": true
   },
   {
    "id": "BOP-MA-2026-3733",
@@ -3078,7 +3179,8 @@
    ],
    "plazo": null,
    "resumen": "Ampliación del plazo de resolución de la convocatoria del puesto",
-   "referencias": []
+   "referencias": [],
+   "texto_leido": true
   },
   {
    "id": "BOP-MA-2026-3547",
@@ -3102,7 +3204,8 @@
    ],
    "plazo": null,
    "resumen": "Bases de la convocatoria, funcionario de carrera por concurso-oposición",
-   "referencias": []
+   "referencias": [],
+   "texto_leido": true
   },
   {
    "id": "BOJA-2026-194-59",
@@ -3126,7 +3229,9 @@
    ],
    "plazo": null,
    "resumen": "Convocatoria y bases de cuatro plazas de administrativo por promoción interna",
-   "referencias": []
+   "referencias": [],
+   "plazo_texto": "20 días hábiles (según el texto)",
+   "texto_leido": true
   },
   {
    "id": "BOJA-2026-194-58",
@@ -3142,15 +3247,17 @@
      "denominacion": "Arquitecto/a Superior",
      "numero": 1,
      "grupo": "A1",
-     "sistema": "—",
-     "turno": "—",
+     "sistema": "oposición",
+     "turno": "libre",
      "vinculo": "Funcionario",
      "categoria": "Técnicos"
     }
    ],
    "plazo": null,
    "resumen": "Bases y convocatoria para una plaza de Arquitecto/a Superior",
-   "referencias": []
+   "referencias": [],
+   "plazo_texto": "20 días hábiles (según el texto)",
+   "texto_leido": true
   },
   {
    "id": "BOJA-2026-194-61",
@@ -3174,7 +3281,9 @@
    ],
    "plazo": null,
    "resumen": "Bases para una plaza de Auxiliar Administrativo/a (OEP 2024)",
-   "referencias": []
+   "referencias": [],
+   "plazo_texto": "20 días hábiles (según el texto)",
+   "texto_leido": true
   },
   {
    "id": "BOJA-2026-194-63",
@@ -3198,7 +3307,8 @@
    ],
    "plazo": null,
    "resumen": "Corrección de errores del extracto de las bases (BOJA núm. 168, de 31-08-2026)",
-   "referencias": []
+   "referencias": [],
+   "texto_leido": true
   },
   {
    "id": "BOJA-2026-194-62",
@@ -3213,6 +3323,56 @@
    "plazo": null,
    "resumen": "Modificación de la Oferta de Empleo Público de 2026",
    "referencias": []
+  },
+  {
+   "id": "BOP-HU-376707",
+   "fecha": "2026-10-06",
+   "provincia": "Huelva",
+   "entidad": "Ayuntamiento de Gibraleón",
+   "tipo": "Bases y convocatoria",
+   "boletin": "BOP Huelva",
+   "referencia": "BOP nº 192 · Anuncio 376707",
+   "enlace": "https://s2.diphuelva.es/portalweb/bope/anuncios/Anuncio_376707_BOP-192_2026.pdf",
+   "plazas": [
+    {
+     "denominacion": "Subgestor de Administración General",
+     "numero": 1,
+     "grupo": "—",
+     "sistema": "concurso-oposición",
+     "turno": "promoción interna",
+     "vinculo": "Funcionario",
+     "categoria": "Administración general"
+    }
+   ],
+   "resumen": "Bases para la provisión en propiedad",
+   "referencias": [],
+   "plazo": null,
+   "texto_leido": true
+  },
+  {
+   "id": "BOP-HU-378284",
+   "fecha": "2026-10-06",
+   "provincia": "Huelva",
+   "entidad": "Ayuntamiento de Cumbres Mayores",
+   "tipo": "Bases y convocatoria (bolsa)",
+   "boletin": "BOP Huelva",
+   "referencia": "BOP nº 192 · Anuncio 378284",
+   "enlace": "https://s2.diphuelva.es/portalweb/bope/anuncios/Anuncio_378284_BOP-192_2026.pdf",
+   "plazas": [
+    {
+     "denominacion": "Auxiliar Administrativo (bolsa)",
+     "numero": "—",
+     "grupo": "—",
+     "sistema": "—",
+     "turno": "—",
+     "vinculo": "—",
+     "categoria": "Administración general"
+    }
+   ],
+   "resumen": "Bases y convocatoria de bolsa de empleo",
+   "referencias": [],
+   "plazo": null,
+   "texto_leido": true
   },
   {
    "id": "BOP-GRA-2026-193003",
@@ -3236,7 +3396,8 @@
    ],
    "plazo": null,
    "resumen": "Nombramiento de personal funcionario de carrera, subescala de Gestión (ingreso libre)",
-   "referencias": []
+   "referencias": [],
+   "texto_leido": true
   },
   {
    "id": "BOP-GRA-2026-193004",
@@ -3260,7 +3421,8 @@
    ],
    "plazo": null,
    "resumen": "Fecha del primer ejercicio",
-   "referencias": []
+   "referencias": [],
+   "texto_leido": true
   },
   {
    "id": "BOP-GRA-2026-193005",
@@ -3284,7 +3446,8 @@
    ],
    "plazo": null,
    "resumen": "Nombramiento de personal funcionario de carrera, subescala de Gestión (promoción interna)",
-   "referencias": []
+   "referencias": [],
+   "texto_leido": true
   },
   {
    "id": "BOP-GRA-2026-193027",
@@ -3300,15 +3463,16 @@
      "denominacion": "Limpiador/a de edificios municipales y tanatorio",
      "numero": 1,
      "grupo": "—",
-     "sistema": "—",
-     "turno": "—",
+     "sistema": "concurso-oposición",
+     "turno": "libre",
      "vinculo": "—",
      "categoria": "Oficios y servicios"
     }
    ],
    "plazo": null,
    "resumen": "Relación de aprobados y propuesta de nombramiento",
-   "referencias": []
+   "referencias": [],
+   "texto_leido": true
   },
   {
    "id": "BOP-GRA-2026-193026",
@@ -3324,15 +3488,16 @@
      "denominacion": "Administrativo/a",
      "numero": 2,
      "grupo": "C1",
-     "sistema": "—",
-     "turno": "—",
+     "sistema": "oposición",
+     "turno": "libre",
      "vinculo": "Funcionario",
      "categoria": "Administración general"
     }
    ],
    "plazo": null,
    "resumen": "Lista provisional de admitidos y excluidos",
-   "referencias": []
+   "referencias": [],
+   "texto_leido": true
   },
   {
    "id": "BOP-GRA-2026-193014",
@@ -3348,7 +3513,7 @@
      "denominacion": "Agente de Igualdad",
      "numero": 1,
      "grupo": "—",
-     "sistema": "—",
+     "sistema": "concurso-oposición",
      "turno": "—",
      "vinculo": "Funcionario",
      "categoria": "Servicios sociales y educación"
@@ -3356,7 +3521,8 @@
    ],
    "plazo": null,
    "resumen": "Listado provisional de admitidos y excluidos",
-   "referencias": []
+   "referencias": [],
+   "texto_leido": true
   },
   {
    "id": "BOP-A-2026-3338",
@@ -3380,7 +3546,8 @@
    ],
    "plazo": null,
    "resumen": "Relación definitiva de admitidos y excluidos de bolsa de empleo",
-   "referencias": []
+   "referencias": [],
+   "texto_leido": true
   },
   {
    "id": "BOP-A-2026-3312",
@@ -3404,7 +3571,9 @@
    ],
    "plazo": null,
    "resumen": "Bases de bolsa de empleo (personal laboral temporal)",
-   "referencias": []
+   "referencias": [],
+   "plazo_texto": "10 días hábiles (según el texto)",
+   "texto_leido": true
   },
   {
    "id": "BOP-A-2026-3335",
@@ -3421,14 +3590,16 @@
      "numero": null,
      "grupo": "A1",
      "sistema": "concurso-oposición",
-     "turno": "—",
+     "turno": "libre",
      "vinculo": "Interino",
      "categoria": "Administración general"
     }
    ],
    "plazo": null,
    "resumen": "Convocatoria y bases de bolsa de trabajo para el puesto de Secretaría con carácter interino",
-   "referencias": []
+   "referencias": [],
+   "plazo_texto": "10 días hábiles (según el texto)",
+   "texto_leido": true
   },
   {
    "id": "BOP-A-2026-3257",
@@ -3452,7 +3623,8 @@
    ],
    "plazo": null,
    "resumen": "Nombramiento con carácter interino",
-   "referencias": []
+   "referencias": [],
+   "texto_leido": true
   },
   {
    "id": "BOP-A-2026-3331",
@@ -3476,7 +3648,8 @@
    ],
    "plazo": null,
    "resumen": "Bases y convocatoria para nombramiento como funcionario/a interino/a",
-   "referencias": []
+   "referencias": [],
+   "texto_leido": true
   },
   {
    "id": "BOP-CA-2026-332452",
@@ -3500,7 +3673,8 @@
    ],
    "plazo": null,
    "resumen": "Rectificación de error material en el decreto de nombramiento como funcionaria de carrera",
-   "referencias": []
+   "referencias": [],
+   "texto_leido": true
   },
   {
    "id": "BOP-CA-2026-317476",
@@ -3524,7 +3698,8 @@
    ],
    "plazo": null,
    "resumen": "Nombramiento de funcionarios/as de carrera, Técnico/a Medio/a de Gestión (promoción interna)",
-   "referencias": []
+   "referencias": [],
+   "texto_leido": true
   },
   {
    "id": "BOP-CA-2026-317502",
@@ -3548,7 +3723,8 @@
    ],
    "plazo": null,
    "resumen": "Nombramiento de funcionarios/as de carrera, Auxiliar Administrativo/a (promoción interna)",
-   "referencias": []
+   "referencias": [],
+   "texto_leido": true
   },
   {
    "id": "BOP-CA-2026-317512",
@@ -3572,7 +3748,8 @@
    ],
    "plazo": null,
    "resumen": "Nombramiento de funcionarios/as de carrera, Administrativo/a (promoción interna)",
-   "referencias": []
+   "referencias": [],
+   "texto_leido": true
   },
   {
    "id": "BOP-CA-2026-331913",
@@ -3596,7 +3773,8 @@
    ],
    "plazo": null,
    "resumen": "Rectificación de los miembros del Tribunal Calificador",
-   "referencias": []
+   "referencias": [],
+   "texto_leido": true
   },
   {
    "id": "BOP-CA-2026-334932",
@@ -3620,7 +3798,8 @@
    ],
    "plazo": null,
    "resumen": "Rectificación de los miembros del Tribunal Calificador (OEP 2024)",
-   "referencias": []
+   "referencias": [],
+   "texto_leido": true
   },
   {
    "id": "BOE-A-2026-20650",
@@ -3661,7 +3840,8 @@
     }
    ],
    "resumen": "1 Técnico/a Administración General (oposición, libre)",
-   "titulo": "Resolución de 30 de septiembre de 2026, del Ayuntamiento de Guillena (Sevilla), referente a la convocatoria para proveer una plaza."
+   "titulo": "Resolución de 30 de septiembre de 2026, del Ayuntamiento de Guillena (Sevilla), referente a la convocatoria para proveer una plaza.",
+   "texto_leido": true
   },
   {
    "id": "BOE-A-2026-20645",
@@ -3697,7 +3877,233 @@
     }
    ],
    "resumen": "1 Administrativo/a (concurso-oposición, promoción interna)",
-   "titulo": "Resolución de 30 de septiembre de 2026, del Ayuntamiento de Bailén (Jaén), referente a la convocatoria para proveer una plaza."
+   "titulo": "Resolución de 30 de septiembre de 2026, del Ayuntamiento de Bailén (Jaén), referente a la convocatoria para proveer una plaza.",
+   "texto_leido": true
+  },
+  {
+   "id": "BOP-HU-379920",
+   "fecha": "2026-10-05",
+   "provincia": "Huelva",
+   "entidad": "Diputación Provincial de Huelva",
+   "tipo": "Bases y convocatoria (bolsa)",
+   "boletin": "BOP Huelva",
+   "referencia": "BOP nº 191 · Anuncio 379920",
+   "enlace": "https://s2.diphuelva.es/portalweb/bope/anuncios/Anuncio_379920_BOP-191_2026.pdf",
+   "plazas": [
+    {
+     "denominacion": "Médico (bolsa)",
+     "numero": "—",
+     "grupo": "—",
+     "sistema": "—",
+     "turno": "—",
+     "vinculo": "—",
+     "categoria": "—"
+    }
+   ],
+   "resumen": "Bases y convocatoria de bolsa de empleo",
+   "referencias": [],
+   "plazo": null,
+   "texto_leido": true
+  },
+  {
+   "id": "BOP-HU-379917",
+   "fecha": "2026-10-05",
+   "provincia": "Huelva",
+   "entidad": "Diputación Provincial de Huelva",
+   "tipo": "Bases y convocatoria (bolsa)",
+   "boletin": "BOP Huelva",
+   "referencia": "BOP nº 191 · Anuncio 379917",
+   "enlace": "https://s2.diphuelva.es/portalweb/bope/anuncios/Anuncio_379917_BOP-191_2026.pdf",
+   "plazas": [
+    {
+     "denominacion": "Técnico Medio de Gestión de Bibliotecas (bolsa)",
+     "numero": "—",
+     "grupo": "—",
+     "sistema": "—",
+     "turno": "—",
+     "vinculo": "—",
+     "categoria": "—"
+    }
+   ],
+   "resumen": "Bases y convocatoria de bolsa de empleo",
+   "referencias": [],
+   "plazo": null,
+   "texto_leido": true
+  },
+  {
+   "id": "BOP-HU-379300",
+   "fecha": "2026-10-05",
+   "provincia": "Huelva",
+   "entidad": "Ayuntamiento de Zalamea la Real",
+   "tipo": "Lista definitiva",
+   "boletin": "BOP Huelva",
+   "referencia": "BOP nº 191 · Anuncio 379300",
+   "enlace": "https://s2.diphuelva.es/portalweb/bope/anuncios/Anuncio_379300_BOP-191_2026.pdf",
+   "plazas": [
+    {
+     "denominacion": "Peón",
+     "numero": 1,
+     "grupo": "—",
+     "sistema": "—",
+     "turno": "—",
+     "vinculo": "—",
+     "categoria": "—"
+    }
+   ],
+   "resumen": "Lista definitiva de admitidos y excluidos",
+   "referencias": [],
+   "plazo": null,
+   "texto_leido": true
+  },
+  {
+   "id": "BOP-HU-373990",
+   "fecha": "2026-10-05",
+   "provincia": "Huelva",
+   "entidad": "Ayuntamiento de Niebla",
+   "tipo": "Lista definitiva",
+   "boletin": "BOP Huelva",
+   "referencia": "BOP nº 191 · Anuncio 373990",
+   "enlace": "https://s2.diphuelva.es/portalweb/bope/anuncios/Anuncio_373990_BOP-191_2026.pdf",
+   "plazas": [
+    {
+     "denominacion": "Técnico de Administración General",
+     "numero": 1,
+     "grupo": "A1",
+     "sistema": "—",
+     "turno": "—",
+     "vinculo": "Funcionario",
+     "categoria": "Administración general"
+    }
+   ],
+   "resumen": "Lista definitiva de admitidos y excluidos",
+   "referencias": [],
+   "plazo": null,
+   "texto_leido": true
+  },
+  {
+   "id": "BOP-HU-378249",
+   "fecha": "2026-10-05",
+   "provincia": "Huelva",
+   "entidad": "Ayuntamiento de Gibraleón",
+   "tipo": "Lista definitiva",
+   "boletin": "BOP Huelva",
+   "referencia": "BOP nº 191 · Anuncio 378249",
+   "enlace": "https://s2.diphuelva.es/portalweb/bope/anuncios/Anuncio_378249_BOP-191_2026.pdf",
+   "plazas": [
+    {
+     "denominacion": "Técnico en Gestión Administrativa",
+     "numero": 1,
+     "grupo": "A2",
+     "sistema": "—",
+     "turno": "libre",
+     "vinculo": "—",
+     "categoria": "—"
+    }
+   ],
+   "resumen": "Lista definitiva de admitidos y excluidos",
+   "referencias": [],
+   "plazo": null,
+   "texto_leido": true
+  },
+  {
+   "id": "BOP-HU-379912",
+   "fecha": "2026-10-05",
+   "provincia": "Huelva",
+   "entidad": "Agencia Provincial Tributaria de Huelva",
+   "tipo": "Lista provisional",
+   "boletin": "BOP Huelva",
+   "referencia": "BOP nº 191 · Anuncio 379912",
+   "enlace": "https://s2.diphuelva.es/portalweb/bope/anuncios/Anuncio_379912_BOP-191_2026.pdf",
+   "plazas": [
+    {
+     "denominacion": "Técnico Medio Informático",
+     "numero": 3,
+     "grupo": "A2",
+     "sistema": "concurso-oposición",
+     "turno": "promoción interna",
+     "vinculo": "—",
+     "categoria": "—"
+    }
+   ],
+   "resumen": "Lista provisional de admitidos y excluidos",
+   "referencias": [],
+   "plazo": null,
+   "texto_leido": true
+  },
+  {
+   "id": "BOP-HU-379900",
+   "fecha": "2026-10-05",
+   "provincia": "Huelva",
+   "entidad": "Agencia Provincial Tributaria de Huelva",
+   "tipo": "Lista provisional",
+   "boletin": "BOP Huelva",
+   "referencia": "BOP nº 191 · Anuncio 379900",
+   "enlace": "https://s2.diphuelva.es/portalweb/bope/anuncios/Anuncio_379900_BOP-191_2026.pdf",
+   "plazas": [
+    {
+     "denominacion": "Técnico Medio Tributario",
+     "numero": 4,
+     "grupo": "A2",
+     "sistema": "concurso-oposición",
+     "turno": "promoción interna",
+     "vinculo": "—",
+     "categoria": "—"
+    }
+   ],
+   "resumen": "Lista provisional de admitidos y excluidos",
+   "referencias": [],
+   "plazo": null,
+   "texto_leido": true
+  },
+  {
+   "id": "BOP-HU-379904",
+   "fecha": "2026-10-05",
+   "provincia": "Huelva",
+   "entidad": "Agencia Provincial Tributaria de Huelva",
+   "tipo": "Lista provisional",
+   "boletin": "BOP Huelva",
+   "referencia": "BOP nº 191 · Anuncio 379904",
+   "enlace": "https://s2.diphuelva.es/portalweb/bope/anuncios/Anuncio_379904_BOP-191_2026.pdf",
+   "plazas": [
+    {
+     "denominacion": "Técnico/a Auxiliar Tributario",
+     "numero": 40,
+     "grupo": "C1",
+     "sistema": "concurso-oposición",
+     "turno": "promoción interna",
+     "vinculo": "—",
+     "categoria": "—"
+    }
+   ],
+   "resumen": "Lista provisional de admitidos y excluidos",
+   "referencias": [],
+   "plazo": null,
+   "texto_leido": true
+  },
+  {
+   "id": "BOP-HU-379910",
+   "fecha": "2026-10-05",
+   "provincia": "Huelva",
+   "entidad": "Agencia Provincial Tributaria de Huelva",
+   "tipo": "Lista provisional",
+   "boletin": "BOP Huelva",
+   "referencia": "BOP nº 191 · Anuncio 379910",
+   "enlace": "https://s2.diphuelva.es/portalweb/bope/anuncios/Anuncio_379910_BOP-191_2026.pdf",
+   "plazas": [
+    {
+     "denominacion": "Técnico Superior Informático",
+     "numero": 1,
+     "grupo": "A1",
+     "sistema": "concurso-oposición",
+     "turno": "promoción interna",
+     "vinculo": "—",
+     "categoria": "—"
+    }
+   ],
+   "resumen": "Lista provisional de admitidos y excluidos",
+   "referencias": [],
+   "plazo": null,
+   "texto_leido": true
   },
   {
    "id": "BOE-A-2026-20653",
@@ -3733,7 +4139,8 @@
     }
    ],
    "resumen": "2 Administrativo/a (concurso-oposición, promoción interna)",
-   "titulo": "Resolución de 30 de septiembre de 2026, del Ayuntamiento de Lanjarón (Granada), referente a la convocatoria para proveer varias plazas."
+   "titulo": "Resolución de 30 de septiembre de 2026, del Ayuntamiento de Lanjarón (Granada), referente a la convocatoria para proveer varias plazas.",
+   "texto_leido": true
   },
   {
    "id": "BOE-A-2026-20652",
@@ -3774,7 +4181,8 @@
     }
    ],
    "resumen": "3 Técnico/a de Gestión (oposición, libre)",
-   "titulo": "Resolución de 30 de septiembre de 2026, del Ayuntamiento de Córdoba, Instituto Municipal de Deportes de Córdoba, referente a la convocatoria para proveer varias plazas."
+   "titulo": "Resolución de 30 de septiembre de 2026, del Ayuntamiento de Córdoba, Instituto Municipal de Deportes de Córdoba, referente a la convocatoria para proveer varias plazas.",
+   "texto_leido": true
   },
   {
    "id": "BOE-A-2026-20647",
@@ -3815,7 +4223,59 @@
     }
    ],
    "resumen": "1 Técnico/a Recursos Humanos (concurso-oposición, promoción interna)",
-   "titulo": "Resolución de 30 de septiembre de 2026, del Ayuntamiento de Trebujena (Cádiz), referente a la convocatoria para proveer una plaza."
+   "titulo": "Resolución de 30 de septiembre de 2026, del Ayuntamiento de Trebujena (Cádiz), referente a la convocatoria para proveer una plaza.",
+   "texto_leido": true
+  },
+  {
+   "id": "BOP-AL-2539-2026",
+   "fecha": "2026-10-05",
+   "provincia": "Almería",
+   "entidad": "Ayuntamiento de Pechina",
+   "tipo": "Bases y convocatoria",
+   "boletin": "BOP Almería",
+   "referencia": "BOP nº 192/2026 · Edicto 2539-2026",
+   "enlace": "https://app.dipalme.org/bop/services/manager/edicto/2026/2539/anuncio.pdf",
+   "plazas": [
+    {
+     "denominacion": "Promotor Cultural y Deportivo",
+     "numero": 1,
+     "grupo": "C1",
+     "sistema": "concurso-oposición",
+     "turno": "promoción interna",
+     "vinculo": "—",
+     "categoria": "—"
+    }
+   ],
+   "resumen": "Convocatoria y bases de provisión definitiva",
+   "referencias": [],
+   "plazo": null,
+   "plazo_texto": "20 días hábiles (según el texto)",
+   "texto_leido": true
+  },
+  {
+   "id": "BOP-AL-2701-2026",
+   "fecha": "2026-10-05",
+   "provincia": "Almería",
+   "entidad": "Ayuntamiento de Huércal-Overa",
+   "tipo": "Modificación de tribunal y corrección de lista definitiva",
+   "boletin": "BOP Almería",
+   "referencia": "BOP nº 192/2026 · Edicto 2701-2026",
+   "enlace": "https://app.dipalme.org/bop/services/manager/edicto/2026/2701/anuncio.pdf",
+   "plazas": [
+    {
+     "denominacion": "Auxiliar Administrativo",
+     "numero": 8,
+     "grupo": "C2",
+     "sistema": "oposición",
+     "turno": "libre",
+     "vinculo": "—",
+     "categoria": "Administración general"
+    }
+   ],
+   "resumen": "Modificación del tribunal y rectificación del listado definitivo",
+   "referencias": [],
+   "plazo": null,
+   "texto_leido": true
   },
   {
    "id": "BOE-A-2026-20565",
@@ -5235,7 +5695,7 @@
   },
   {
    "fecha": "2026-10-09",
-   "nota": "Cubre 7, 8 y 9 oct (las ejecuciones del 7 y 8 no se completaron). Jaén BOP inaccesible (HTTP 500); Huelva solo último BOP (nº 195); Cádiz: no consta BOP el 7. Enlaces de Málaga pasan a la página del día."
+   "nota": "Cubre 5-9 oct. Almería: enlaces directos a PDF. Huelva: añadidos BOP 191, 192 y 194 vía consulta por fecha. Jaén: BOP bloquea IPs de servidor (HTTP 500); solo BOE/BOJA."
   }
  ]
 }
